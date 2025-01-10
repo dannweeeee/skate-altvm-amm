@@ -1,0 +1,2012 @@
+[
+  {
+    "tickIdx": 1565,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017838065622954122,
+    "totalLiquidityLockedToken1": 0.020859862700252797,
+    "price0": 1.1694016123256217,
+    "price1": 0.8551382086871524,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1564,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017838065622954122,
+    "totalLiquidityLockedToken1": 0.020859862700252797,
+    "price0": 1.169284683857236,
+    "price1": 0.8552237225080211,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1563,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017838957503938803,
+    "totalLiquidityLockedToken1": 0.02085881978533575,
+    "price0": 1.1691677670805278,
+    "price1": 0.8553092448802719,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1562,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017839849429516417,
+    "totalLiquidityLockedToken1": 0.02085777692256054,
+    "price0": 1.1690508619943285,
+    "price1": 0.85539477580476,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1561,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.0178407413996892,
+    "totalLiquidityLockedToken1": 0.020856734111924558,
+    "price0": 1.1689339685974687,
+    "price1": 0.8554803152823405,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1560,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017841633414459372,
+    "totalLiquidityLockedToken1": 0.020855691353425198,
+    "price0": 1.16881708688878,
+    "price1": 0.8555658633138686,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1559,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017842525473829165,
+    "totalLiquidityLockedToken1": 0.02085464864705985,
+    "price0": 1.1687002168670932,
+    "price1": 0.8556514199002,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1558,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.01784341757780081,
+    "totalLiquidityLockedToken1": 0.020853605992825913,
+    "price0": 1.16858335853124,
+    "price1": 0.8557369850421901,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1557,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.01784430972637655,
+    "totalLiquidityLockedToken1": 0.02085256339072078,
+    "price0": 1.1684665118800521,
+    "price1": 0.8558225587406942,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1556,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017845201919558594,
+    "totalLiquidityLockedToken1": 0.02085152084074184,
+    "price0": 1.168349676912361,
+    "price1": 0.8559081409965683,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1555,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017846094157349186,
+    "totalLiquidityLockedToken1": 0.020850478342886492,
+    "price0": 1.1682328536269981,
+    "price1": 0.855993731810668,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1554,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.01784698643975055,
+    "totalLiquidityLockedToken1": 0.020849435897152126,
+    "price0": 1.1681160420227958,
+    "price1": 0.856079331183849,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1553,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.01784787876676492,
+    "totalLiquidityLockedToken1": 0.020848393503536136,
+    "price0": 1.167999242098586,
+    "price1": 0.8561649391169674,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1552,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017848771138394524,
+    "totalLiquidityLockedToken1": 0.02084735116203592,
+    "price0": 1.1678824538532007,
+    "price1": 0.8562505556108791,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1551,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017849663554641595,
+    "totalLiquidityLockedToken1": 0.02084630887264887,
+    "price0": 1.167765677285472,
+    "price1": 0.8563361806664402,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1550,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017850556015508365,
+    "totalLiquidityLockedToken1": 0.020845266635372384,
+    "price0": 1.1676489123942326,
+    "price1": 0.8564218142845069,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1549,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.01785144852099706,
+    "totalLiquidityLockedToken1": 0.02084422445020385,
+    "price0": 1.1675321591783148,
+    "price1": 0.8565074564659353,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1548,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017852341071109914,
+    "totalLiquidityLockedToken1": 0.02084318231714067,
+    "price0": 1.1674154176365512,
+    "price1": 0.8565931072115819,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1547,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.01785323366584916,
+    "totalLiquidityLockedToken1": 0.020842140236180234,
+    "price0": 1.1672986877677745,
+    "price1": 0.8566787665223031,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1546,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017854126305217027,
+    "totalLiquidityLockedToken1": 0.020841098207319938,
+    "price0": 1.1671819695708174,
+    "price1": 0.8567644343989553,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1545,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017855018989215744,
+    "totalLiquidityLockedToken1": 0.020840056230557177,
+    "price0": 1.1670652630445129,
+    "price1": 0.8568501108423953,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1544,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017855911717847547,
+    "totalLiquidityLockedToken1": 0.020839014305889348,
+    "price0": 1.166948568187694,
+    "price1": 0.8569357958534795,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1543,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017856804491114667,
+    "totalLiquidityLockedToken1": 0.020837972433313846,
+    "price0": 1.166831884999194,
+    "price1": 0.8570214894330648,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1542,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017857697309019333,
+    "totalLiquidityLockedToken1": 0.020836930612828066,
+    "price0": 1.1667152134778465,
+    "price1": 0.8571071915820081,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1541,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.01785859017156378,
+    "totalLiquidityLockedToken1": 0.020835888844429405,
+    "price0": 1.166598553622484,
+    "price1": 0.8571929023011663,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1540,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017859483078750234,
+    "totalLiquidityLockedToken1": 0.020834847128115255,
+    "price0": 1.166481905431941,
+    "price1": 0.8572786215913965,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1539,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017860376030580934,
+    "totalLiquidityLockedToken1": 0.020833805463883016,
+    "price0": 1.1663652689050505,
+    "price1": 0.8573643494535556,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1538,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017861269027058112,
+    "totalLiquidityLockedToken1": 0.020832763851730083,
+    "price0": 1.1662486440406463,
+    "price1": 0.8574500858885009,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1537,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017862162068183994,
+    "totalLiquidityLockedToken1": 0.02083172229165385,
+    "price0": 1.1661320308375627,
+    "price1": 0.8575358308970897,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1536,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017863055153960816,
+    "totalLiquidityLockedToken1": 0.020830680783651717,
+    "price0": 1.1660154292946332,
+    "price1": 0.8576215844801794,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1535,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.01786394828439081,
+    "totalLiquidityLockedToken1": 0.020829639327721076,
+    "price0": 1.1658988394106922,
+    "price1": 0.8577073466386275,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1534,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.01786484145947621,
+    "totalLiquidityLockedToken1": 0.02082859792385933,
+    "price0": 1.1657822611845736,
+    "price1": 0.8577931173732913,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1533,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.01786573467921925,
+    "totalLiquidityLockedToken1": 0.020827556572063873,
+    "price0": 1.165665694615112,
+    "price1": 0.8578788966850287,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1532,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.01786662794362216,
+    "totalLiquidityLockedToken1": 0.020826515272332098,
+    "price0": 1.165549139701142,
+    "price1": 0.8579646845746972,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1531,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017867521252687174,
+    "totalLiquidityLockedToken1": 0.020825474024661405,
+    "price0": 1.1654325964414978,
+    "price1": 0.8580504810431546,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1530,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.01786841460641652,
+    "totalLiquidityLockedToken1": 0.02082443282904919,
+    "price0": 1.1653160648350145,
+    "price1": 0.858136286091259,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1529,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017869308004812443,
+    "totalLiquidityLockedToken1": 0.020823391685492857,
+    "price0": 1.1651995448805263,
+    "price1": 0.8582220997198681,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1528,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.01787020144787716,
+    "totalLiquidityLockedToken1": 0.02082235059398979,
+    "price0": 1.1650830365768687,
+    "price1": 0.8583079219298401,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1527,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.01787109493561292,
+    "totalLiquidityLockedToken1": 0.020821309554537402,
+    "price0": 1.1649665399228764,
+    "price1": 0.8583937527220331,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1526,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017871988468021953,
+    "totalLiquidityLockedToken1": 0.02082026856713308,
+    "price0": 1.1648500549173846,
+    "price1": 0.8584795920973053,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1525,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017872882045106484,
+    "totalLiquidityLockedToken1": 0.020819227631774226,
+    "price0": 1.1647335815592288,
+    "price1": 0.858565440056515,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1524,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017873775666868756,
+    "totalLiquidityLockedToken1": 0.020818186748458235,
+    "price0": 1.164617119847244,
+    "price1": 0.8586512966005206,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1523,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017874669333310993,
+    "totalLiquidityLockedToken1": 0.020817145917182506,
+    "price0": 1.164500669780266,
+    "price1": 0.8587371617301807,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1522,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.01787556304443544,
+    "totalLiquidityLockedToken1": 0.02081610513794444,
+    "price0": 1.1643842313571302,
+    "price1": 0.8588230354463537,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1521,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017876456800244325,
+    "totalLiquidityLockedToken1": 0.02081506441074143,
+    "price0": 1.1642678045766726,
+    "price1": 0.8589089177498984,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1520,
+    "optimismLiquidityActive": 385826601623478700000,
+    "totalLiquidityActive": 385826601623478700000,
+    "totalLiquidityLockedToken0": 0.017877350600739885,
+    "totalLiquidityLockedToken1": 0.020814023735570883,
+    "price0": 1.164151389437729,
+    "price1": 0.8589948086416733,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1519,
+    "optimismLiquidityActive": 385829921026718400000,
+    "totalLiquidityActive": 385829921026718400000,
+    "totalLiquidityLockedToken0": 0.0178783982588089,
+    "totalLiquidityLockedToken1": 0.020813162173913456,
+    "price0": 1.1640349859391348,
+    "price1": 0.8590807081225376,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1518,
+    "optimismLiquidityActive": 385829921026718400000,
+    "totalLiquidityActive": 385829921026718400000,
+    "totalLiquidityLockedToken0": 0.017879292156374967,
+    "totalLiquidityLockedToken1": 0.020812121593847616,
+    "price0": 1.163918594079727,
+    "price1": 0.8591666161933498,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1517,
+    "optimismLiquidityActive": 385829921026718400000,
+    "totalLiquidityActive": 385829921026718400000,
+    "totalLiquidityLockedToken0": 0.017880186098634784,
+    "totalLiquidityLockedToken1": 0.020811081065806876,
+    "price0": 1.163802213858341,
+    "price1": 0.8592525328549692,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1516,
+    "optimismLiquidityActive": 385829921026718400000,
+    "totalLiquidityActive": 385829921026718400000,
+    "totalLiquidityLockedToken0": 0.0178810800855906,
+    "totalLiquidityLockedToken1": 0.020810040589788636,
+    "price0": 1.1636858452738137,
+    "price1": 0.8593384581082546,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1515,
+    "optimismLiquidityActive": 385829921026718400000,
+    "totalLiquidityActive": 385829921026718400000,
+    "totalLiquidityLockedToken0": 0.017881974117244646,
+    "totalLiquidityLockedToken1": 0.020809000165790296,
+    "price0": 1.1635694883249812,
+    "price1": 0.8594243919540654,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1514,
+    "optimismLiquidityActive": 385829921026718400000,
+    "totalLiquidityActive": 385829921026718400000,
+    "totalLiquidityLockedToken0": 0.01788286819359916,
+    "totalLiquidityLockedToken1": 0.020807959793809255,
+    "price0": 1.16345314301068,
+    "price1": 0.8595103343932609,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1513,
+    "optimismLiquidityActive": 385829921026718400000,
+    "totalLiquidityActive": 385829921026718400000,
+    "totalLiquidityLockedToken0": 0.017883762314656375,
+    "totalLiquidityLockedToken1": 0.020806919473842913,
+    "price0": 1.1633368093297471,
+    "price1": 0.8595962854267002,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1512,
+    "optimismLiquidityActive": 385829921026718400000,
+    "totalLiquidityActive": 385829921026718400000,
+    "totalLiquidityLockedToken0": 0.01788465648041852,
+    "totalLiquidityLockedToken1": 0.020805879205888667,
+    "price0": 1.163220487281019,
+    "price1": 0.8596822450552428,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1511,
+    "optimismLiquidityActive": 385829921026718400000,
+    "totalLiquidityActive": 385829921026718400000,
+    "totalLiquidityLockedToken0": 0.017885550690887837,
+    "totalLiquidityLockedToken1": 0.020804838989943918,
+    "price0": 1.1631041768633328,
+    "price1": 0.8597682132797484,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1510,
+    "optimismLiquidityActive": 385829921026718400000,
+    "totalLiquidityActive": 385829921026718400000,
+    "totalLiquidityLockedToken0": 0.01788644494606656,
+    "totalLiquidityLockedToken1": 0.020803798826006064,
+    "price0": 1.1629878780755252,
+    "price1": 0.8598541901010763,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1509,
+    "optimismLiquidityActive": 386335980679245140000,
+    "totalLiquidityActive": 386335980679245140000,
+    "totalLiquidityLockedToken0": 0.017910800517854528,
+    "totalLiquidityLockedToken1": 0.020830043888893653,
+    "price0": 1.1628715909164336,
+    "price1": 0.8599401755200865,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1508,
+    "optimismLiquidityActive": 386335980679245140000,
+    "totalLiquidityActive": 386335980679245140000,
+    "totalLiquidityLockedToken0": 0.01791169603549304,
+    "totalLiquidityLockedToken1": 0.020829002464805364,
+    "price0": 1.162755315384895,
+    "price1": 0.8600261695376384,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1507,
+    "optimismLiquidityActive": 387192089136462360000,
+    "totalLiquidityActive": 387192089136462360000,
+    "totalLiquidityLockedToken0": 0.017952285340981144,
+    "totalLiquidityLockedToken1": 0.02087411520353216,
+    "price0": 1.162639051479747,
+    "price1": 0.8601121721545922,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1506,
+    "optimismLiquidityActive": 387741262145341300000,
+    "totalLiquidityActive": 387741262145341300000,
+    "totalLiquidityLockedToken0": 0.017978646788519837,
+    "totalLiquidityLockedToken1": 0.020902676849094103,
+    "price0": 1.162522799199827,
+    "price1": 0.8601981833718076,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1505,
+    "optimismLiquidityActive": 387741262145341300000,
+    "totalLiquidityActive": 387741262145341300000,
+    "totalLiquidityLockedToken0": 0.017979545698387077,
+    "totalLiquidityLockedToken1": 0.020901631793630155,
+    "price0": 1.1624065585439727,
+    "price1": 0.8602842031901449,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1504,
+    "optimismLiquidityActive": 387741262145341300000,
+    "totalLiquidityActive": 387741262145341300000,
+    "totalLiquidityLockedToken0": 0.017980444653198688,
+    "totalLiquidityLockedToken1": 0.020900586790415062,
+    "price0": 1.1622903295110216,
+    "price1": 0.8603702316104639,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1503,
+    "optimismLiquidityActive": 387741262145341300000,
+    "totalLiquidityActive": 387741262145341300000,
+    "totalLiquidityLockedToken0": 0.017981343652956918,
+    "totalLiquidityLockedToken1": 0.02089954183944621,
+    "price0": 1.1621741120998115,
+    "price1": 0.8604562686336249,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1502,
+    "optimismLiquidityActive": 387741262145341300000,
+    "totalLiquidityActive": 387741262145341300000,
+    "totalLiquidityLockedToken0": 0.01798224269766401,
+    "totalLiquidityLockedToken1": 0.02089849694072099,
+    "price0": 1.1620579063091807,
+    "price1": 0.8605423142604883,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1501,
+    "optimismLiquidityActive": 511780990165436470000,
+    "totalLiquidityActive": 511780990165436470000,
+    "totalLiquidityLockedToken0": 0.02373600905737852,
+    "totalLiquidityLockedToken1": 0.02758261698935303,
+    "price0": 1.161941712137967,
+    "price1": 0.8606283684919144,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1500,
+    "optimismLiquidityActive": 512628704040491550000,
+    "totalLiquidityActive": 512628704040491550000,
+    "totalLiquidityLockedToken0": 0.02377651411204818,
+    "totalLiquidityLockedToken1": 0.02762692351602579,
+    "price0": 1.1618255295850084,
+    "price1": 0.8607144313287636,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1499,
+    "optimismLiquidityActive": 512628704040491550000,
+    "totalLiquidityActive": 512628704040491550000,
+    "totalLiquidityLockedToken0": 0.023777702908034624,
+    "totalLiquidityLockedToken1": 0.02762554227344232,
+    "price0": 1.1617093586491434,
+    "price1": 0.8608005027718963,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1498,
+    "optimismLiquidityActive": 512628704040491550000,
+    "totalLiquidityActive": 512628704040491550000,
+    "totalLiquidityLockedToken0": 0.023778891763459382,
+    "totalLiquidityLockedToken1": 0.0276241610999158,
+    "price0": 1.1615931993292106,
+    "price1": 0.8608865828221736,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1497,
+    "optimismLiquidityActive": 526134968100653000000,
+    "totalLiquidityActive": 526134968100653000000,
+    "totalLiquidityLockedToken0": 0.02440661611514723,
+    "totalLiquidityLockedToken1": 0.02835055929799374,
+    "price0": 1.1614770516240482,
+    "price1": 0.8609726714804559,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1496,
+    "optimismLiquidityActive": 530238628106661660000,
+    "totalLiquidityActive": 530238628106661660000,
+    "totalLiquidityLockedToken0": 0.024598208597878545,
+    "totalLiquidityLockedToken1": 0.02857025479749728,
+    "price0": 1.1613609155324949,
+    "price1": 0.8610587687476039,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1495,
+    "optimismLiquidityActive": 530238628106661660000,
+    "totalLiquidityActive": 530238628106661660000,
+    "totalLiquidityLockedToken0": 0.024599438477562217,
+    "totalLiquidityLockedToken1": 0.028568826391886935,
+    "price0": 1.1612447910533896,
+    "price1": 0.8611448746244786,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1494,
+    "optimismLiquidityActive": 531344759772119600000,
+    "totalLiquidityActive": 531344759772119600000,
+    "totalLiquidityLockedToken0": 0.024651987913182866,
+    "totalLiquidityLockedToken1": 0.028626992553294723,
+    "price0": 1.161128678185571,
+    "price1": 0.8612309891119411,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1493,
+    "optimismLiquidityActive": 538186978898028460000,
+    "totalLiquidityActive": 538186978898028460000,
+    "totalLiquidityLockedToken0": 0.02497068430086424,
+    "totalLiquidityLockedToken1": 0.02899417765565168,
+    "price0": 1.1610125769278783,
+    "price1": 0.8613171122108523,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1492,
+    "optimismLiquidityActive": 566515736113582960000,
+    "totalLiquidityActive": 566515736113582960000,
+    "totalLiquidityLockedToken0": 0.026286390138105485,
+    "totalLiquidityLockedToken1": 0.03051882955237341,
+    "price0": 1.1608964872791503,
+    "price1": 0.8614032439220733,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1491,
+    "optimismLiquidityActive": 592758699416644100000,
+    "totalLiquidityActive": 592758699416644100000,
+    "totalLiquidityLockedToken0": 0.02750544158290319,
+    "totalLiquidityLockedToken1": 0.03193097051465418,
+    "price0": 1.1607804092382266,
+    "price1": 0.8614893842464656,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1490,
+    "optimismLiquidityActive": 596534912602092100000,
+    "totalLiquidityActive": 596534912602092100000,
+    "totalLiquidityLockedToken0": 0.027682051033899976,
+    "totalLiquidityLockedToken1": 0.03213278252768388,
+    "price0": 1.160664342803946,
+    "price1": 0.8615755331848902,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1489,
+    "optimismLiquidityActive": 2.2755419400047627e+22,
+    "totalLiquidityActive": 2.2755419400047627e+22,
+    "totalLiquidityLockedToken0": 1.0560122515357482,
+    "totalLiquidityLockedToken1": 1.2256757659216546,
+    "price0": 1.1605482879751485,
+    "price1": 0.8616616907382086,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1488,
+    "optimismLiquidityActive": 2.2866821244313416e+22,
+    "totalLiquidityActive": 2.2866821244313416e+22,
+    "totalLiquidityLockedToken0": 1.0612351420606505,
+    "totalLiquidityLockedToken1": 1.2316146272575514,
+    "price0": 1.1604322447506734,
+    "price1": 0.8617478569072825,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1487,
+    "optimismLiquidityActive": 2.327851868736238e+22,
+    "totalLiquidityActive": 2.327851868736238e+22,
+    "totalLiquidityLockedToken0": 1.0803957834985112,
+    "totalLiquidityLockedToken1": 1.25372610426434,
+    "price0": 1.1603162131293605,
+    "price1": 0.8618340316929732,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1486,
+    "optimismLiquidityActive": 2.354789663360177e+22,
+    "totalLiquidityActive": 2.354789663360177e+22,
+    "totalLiquidityLockedToken0": 1.09295271728894,
+    "totalLiquidityLockedToken1": 1.2681707580541475,
+    "price0": 1.1602001931100496,
+    "price1": 0.8619202150961426,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1485,
+    "optimismLiquidityActive": 2.361042502107848e+22,
+    "totalLiquidityActive": 2.361042502107848e+22,
+    "totalLiquidityLockedToken0": 1.0959097029483482,
+    "totalLiquidityLockedToken1": 1.2714746489918505,
+    "price0": 1.1600841846915804,
+    "price1": 0.8620064071176522,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1484,
+    "optimismLiquidityActive": 2.3623186565137254e+22,
+    "totalLiquidityActive": 2.3623186565137254e+22,
+    "totalLiquidityLockedToken0": 1.0965568709495195,
+    "totalLiquidityLockedToken1": 1.2720982836034238,
+    "price0": 1.1599681878727932,
+    "price1": 0.8620926077583639,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1483,
+    "optimismLiquidityActive": 2.392443967497748e+22,
+    "totalLiquidityActive": 2.392443967497748e+22,
+    "totalLiquidityLockedToken0": 1.1105961648957319,
+    "totalLiquidityLockedToken1": 1.2882562208525759,
+    "price0": 1.1598522026525278,
+    "price1": 0.8621788170191398,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1482,
+    "optimismLiquidityActive": 2.397199987337701e+22,
+    "totalLiquidityActive": 2.397199987337701e+22,
+    "totalLiquidityLockedToken0": 1.1128595951770144,
+    "totalLiquidityLockedToken1": 1.2907526527090605,
+    "price0": 1.159736229029625,
+    "price1": 0.8622650349008416,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1481,
+    "optimismLiquidityActive": 2.40617407815145e+22,
+    "totalLiquidityActive": 2.40617407815145e+22,
+    "totalLiquidityLockedToken0": 1.1170815151136306,
+    "totalLiquidityLockedToken1": 1.295519903856582,
+    "price0": 1.1596202670029245,
+    "price1": 0.8623512614043317,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1480,
+    "optimismLiquidityActive": 2.4392228918940743e+22,
+    "totalLiquidityActive": 2.4392228918940743e+22,
+    "totalLiquidityLockedToken0": 1.1324812554728698,
+    "totalLiquidityLockedToken1": 1.3132482158472567,
+    "price0": 1.1595043165712675,
+    "price1": 0.8624374965304722,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1479,
+    "optimismLiquidityActive": 2.443221402304705e+22,
+    "totalLiquidityActive": 2.443221402304705e+22,
+    "totalLiquidityLockedToken0": 1.1343943974694293,
+    "totalLiquidityLockedToken1": 1.3153352005600654,
+    "price0": 1.1593883777334941,
+    "price1": 0.8625237402801252,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1478,
+    "optimismLiquidityActive": 2.4421445123655686e+22,
+    "totalLiquidityActive": 2.4421445123655686e+22,
+    "totalLiquidityLockedToken0": 1.1339510878198147,
+    "totalLiquidityLockedToken1": 1.314689712136546,
+    "price0": 1.1592724504884453,
+    "price1": 0.8626099926541533,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1477,
+    "optimismLiquidityActive": 2.4536787194962694e+22,
+    "totalLiquidityActive": 2.4536787194962694e+22,
+    "totalLiquidityLockedToken0": 1.139363683495852,
+    "totalLiquidityLockedToken1": 1.3208329293637777,
+    "price0": 1.1591565348349617,
+    "price1": 0.8626962536534186,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1476,
+    "optimismLiquidityActive": 2.527903018978711e+22,
+    "totalLiquidityActive": 2.527903018978711e+22,
+    "totalLiquidityLockedToken0": 1.1738883655721164,
+    "totalLiquidityLockedToken1": 1.3607203701196513,
+    "price0": 1.1590406307718846,
+    "price1": 0.862782523278784,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1475,
+    "optimismLiquidityActive": 2.5280339402102848e+22,
+    "totalLiquidityActive": 2.5280339402102848e+22,
+    "totalLiquidityLockedToken0": 1.1740078577679962,
+    "totalLiquidityLockedToken1": 1.3607228079985672,
+    "price0": 1.1589247382980548,
+    "price1": 0.8628688015311119,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1474,
+    "optimismLiquidityActive": 8.376829727863568e+22,
+    "totalLiquidityActive": 8.376829727863568e+22,
+    "totalLiquidityLockedToken0": 3.8903574347510577,
+    "totalLiquidityLockedToken1": 4.508631471954761,
+    "price0": 1.1588088574123137,
+    "price1": 0.862955088411265,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1473,
+    "optimismLiquidityActive": 1.3107188659465236e+23,
+    "totalLiquidityActive": 1.3107188659465236e+23,
+    "totalLiquidityLockedToken0": 6.087529533890508,
+    "totalLiquidityLockedToken1": 7.054283143631372,
+    "price0": 1.1586929881135022,
+    "price1": 0.8630413839201061,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1472,
+    "optimismLiquidityActive": 1.3106208560835002e+23,
+    "totalLiquidityActive": 1.3106208560835002e+23,
+    "totalLiquidityLockedToken0": 6.087378680984516,
+    "totalLiquidityLockedToken1": 7.053402993648379,
+    "price0": 1.1585771304004622,
+    "price1": 0.8631276880584982,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1471,
+    "optimismLiquidityActive": 1.3276923077164068e+23,
+    "totalLiquidityActive": 1.3276923077164068e+23,
+    "totalLiquidityLockedToken0": 6.166977970458368,
+    "totalLiquidityLockedToken1": 7.144919640256521,
+    "price0": 1.158461284272035,
+    "price1": 0.8632140008273039,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1470,
+    "optimismLiquidityActive": 2.0765205289551853e+23,
+    "totalLiquidityActive": 2.0765205289551853e+23,
+    "totalLiquidityLockedToken0": 9.645681126306544,
+    "totalLiquidityLockedToken1": 11.174148145259608,
+    "price0": 1.1583454497270622,
+    "price1": 0.8633003222273867,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1469,
+    "optimismLiquidityActive": 3.347747800713092e+23,
+    "totalLiquidityActive": 3.347747800713092e+23,
+    "totalLiquidityLockedToken0": 15.551458245514018,
+    "totalLiquidityLockedToken1": 18.013960895311566,
+    "price0": 1.158229626764386,
+    "price1": 0.8633866522596094,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1468,
+    "optimismLiquidityActive": 3.36785474847095e+23,
+    "totalLiquidityActive": 3.36785474847095e+23,
+    "totalLiquidityLockedToken0": 15.64564426681265,
+    "totalLiquidityLockedToken1": 18.121248719638768,
+    "price0": 1.1581138153828474,
+    "price1": 0.8634729909248354,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1467,
+    "optimismLiquidityActive": 3.464483584715067e+23,
+    "totalLiquidityActive": 3.464483584715067e+23,
+    "totalLiquidityLockedToken0": 16.095346123644273,
+    "totalLiquidityLockedToken1": 18.640242709161193,
+    "price0": 1.1579980155812895,
+    "price1": 0.8635593382239279,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1466,
+    "optimismLiquidityActive": 6.034610149428564e+23,
+    "totalLiquidityActive": 6.034610149428564e+23,
+    "totalLiquidityLockedToken0": 28.037077687538403,
+    "totalLiquidityLockedToken1": 32.466880324867915,
+    "price0": 1.1578822273585536,
+    "price1": 0.8636456941577503,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1465,
+    "optimismLiquidityActive": 9.579765208089729e+23,
+    "totalLiquidityActive": 9.579765208089729e+23,
+    "totalLiquidityLockedToken0": 44.510257301107245,
+    "totalLiquidityLockedToken1": 51.537635864108374,
+    "price0": 1.1577664507134822,
+    "price1": 0.8637320587271661,
+    "isCurrent": true
+  },
+  {
+    "tickIdx": 1464,
+    "optimismLiquidityActive": 6.002351151489582e+23,
+    "totalLiquidityActive": 6.002351151489582e+23,
+    "totalLiquidityLockedToken0": 27.889989612119443,
+    "totalLiquidityLockedToken1": 32.290094283659414,
+    "price0": 1.1576506856449178,
+    "price1": 0.8638184319330388,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1463,
+    "optimismLiquidityActive": 4.2177203802598697e+23,
+    "totalLiquidityActive": 4.2177203802598697e+23,
+    "totalLiquidityLockedToken0": 19.59866327129581,
+    "totalLiquidityLockedToken1": 22.68840597373946,
+    "price0": 1.1575349321517026,
+    "price1": 0.8639048137762321,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1462,
+    "optimismLiquidityActive": 4.087959657367255e+23,
+    "totalLiquidityActive": 4.087959657367255e+23,
+    "totalLiquidityLockedToken0": 18.99664828267785,
+    "totalLiquidityLockedToken1": 21.98928398099926,
+    "price0": 1.1574191902326794,
+    "price1": 0.8639912042576097,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1461,
+    "optimismLiquidityActive": 4.086884826283924e+23,
+    "totalLiquidityActive": 4.086884826283924e+23,
+    "totalLiquidityLockedToken0": 18.992603127930728,
+    "totalLiquidityLockedToken1": 21.982403332740237,
+    "price0": 1.1573034598866907,
+    "price1": 0.8640776033780354,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1460,
+    "optimismLiquidityActive": 4.081042199406408e+23,
+    "totalLiquidityActive": 4.081042199406408e+23,
+    "totalLiquidityLockedToken0": 18.96639947546649,
+    "totalLiquidityLockedToken1": 21.949879734550482,
+    "price0": 1.1571877411125793,
+    "price1": 0.8641640111383733,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1459,
+    "optimismLiquidityActive": 1.88637154793798e+23,
+    "totalLiquidityActive": 1.88637154793798e+23,
+    "totalLiquidityLockedToken0": 8.76723724681087,
+    "totalLiquidityLockedToken1": 10.14533946543514,
+    "price0": 1.1570720339091884,
+    "price1": 0.8642504275394871,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1458,
+    "optimismLiquidityActive": 1.8863761667338623e+23,
+    "totalLiquidityActive": 1.8863761667338623e+23,
+    "totalLiquidityLockedToken0": 8.767697065438815,
+    "totalLiquidityLockedToken1": 10.144857076206913,
+    "price0": 1.156956338275361,
+    "price1": 0.864336852582241,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1457,
+    "optimismLiquidityActive": 1.8861210768955036e+23,
+    "totalLiquidityActive": 1.8861210768955036e+23,
+    "totalLiquidityLockedToken0": 8.7669497467382,
+    "totalLiquidityLockedToken1": 10.142978076830332,
+    "price0": 1.1568406542099399,
+    "price1": 0.8644232862674993,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1456,
+    "optimismLiquidityActive": 2.1872287534950275e+23,
+    "totalLiquidityActive": 2.1872287534950275e+23,
+    "totalLiquidityLockedToken0": 10.167047886626492,
+    "totalLiquidityLockedToken1": 11.761654328548778,
+    "price0": 1.1567249817117686,
+    "price1": 0.8645097285961261,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1455,
+    "optimismLiquidityActive": 2.1872114027432984e+23,
+    "totalLiquidityActive": 2.1872114027432984e+23,
+    "totalLiquidityLockedToken0": 10.16747556957133,
+    "totalLiquidityLockedToken1": 11.760972992267252,
+    "price0": 1.1566093207796908,
+    "price1": 0.8645961795689856,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1454,
+    "optimismLiquidityActive": 1.9128684831317995e+23,
+    "totalLiquidityActive": 1.9128684831317995e+23,
+    "totalLiquidityLockedToken0": 8.892609088229365,
+    "totalLiquidityLockedToken1": 10.28527455749627,
+    "price0": 1.1564936714125496,
+    "price1": 0.8646826391869425,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1453,
+    "optimismLiquidityActive": 2.84107667904312e+23,
+    "totalLiquidityActive": 2.84107667904312e+23,
+    "totalLiquidityLockedToken0": 13.20835578444217,
+    "totalLiquidityLockedToken1": 15.27537987447271,
+    "price0": 1.1563780336091884,
+    "price1": 0.8647691074508612,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1452,
+    "optimismLiquidityActive": 2.8408398920632523e+23,
+    "totalLiquidityActive": 2.8408398920632523e+23,
+    "totalLiquidityLockedToken0": 13.207915292151137,
+    "totalLiquidityLockedToken1": 15.273343113614462,
+    "price0": 1.1562624073684518,
+    "price1": 0.8648555843616064,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1451,
+    "optimismLiquidityActive": 1.7987145531948128e+23,
+    "totalLiquidityActive": 1.7987145531948128e+23,
+    "totalLiquidityLockedToken0": 8.363180675373712,
+    "totalLiquidityLockedToken1": 9.670031420964921,
+    "price0": 1.1561467926891829,
+    "price1": 0.8649420699200425,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1450,
+    "optimismLiquidityActive": 1.4826074540009154e+23,
+    "totalLiquidityActive": 1.4826074540009154e+23,
+    "totalLiquidityLockedToken0": 6.8937753000570385,
+    "totalLiquidityLockedToken1": 7.970216202680853,
+    "price0": 1.1560311895702258,
+    "price1": 0.8650285641270344,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1449,
+    "optimismLiquidityActive": 1.1609764179913771e+23,
+    "totalLiquidityActive": 1.1609764179913771e+23,
+    "totalLiquidityLockedToken0": 5.398536678216738,
+    "totalLiquidityLockedToken1": 6.240876778057391,
+    "price0": 1.1559155980104248,
+    "price1": 0.8651150669834472,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1448,
+    "optimismLiquidityActive": 7.709279565872186e+22,
+    "totalLiquidityActive": 7.709279565872186e+22,
+    "totalLiquidityLockedToken0": 3.5849918002986483,
+    "totalLiquidityLockedToken1": 4.143947940704681,
+    "price0": 1.1558000180086239,
+    "price1": 0.8652015784901456,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1447,
+    "optimismLiquidityActive": 6.479006883870585e+22,
+    "totalLiquidityActive": 6.479006883870585e+22,
+    "totalLiquidityLockedToken0": 3.0130374290586146,
+    "totalLiquidityLockedToken1": 3.4824687147666045,
+    "price0": 1.1556844495636676,
+    "price1": 0.8652880986479945,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1446,
+    "optimismLiquidityActive": 6.478830908179582e+22,
+    "totalLiquidityActive": 6.478830908179582e+22,
+    "totalLiquidityLockedToken0": 3.0131062362485985,
+    "totalLiquidityLockedToken1": 3.4822000221158156,
+    "price0": 1.1555688926744,
+    "price1": 0.8653746274578593,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1445,
+    "optimismLiquidityActive": 5.225977940903586e+22,
+    "totalLiquidityActive": 5.225977940903586e+22,
+    "totalLiquidityLockedToken0": 2.4305641324899177,
+    "totalLiquidityLockedToken1": 2.8086843031554882,
+    "price0": 1.1554533473396662,
+    "price1": 0.8654611649206051,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1444,
+    "optimismLiquidityActive": 5.225118587314934e+22,
+    "totalLiquidityActive": 5.225118587314934e+22,
+    "totalLiquidityLockedToken0": 2.430285958603802,
+    "totalLiquidityLockedToken1": 2.8080820458613522,
+    "price0": 1.1553378135583103,
+    "price1": 0.8655477110370972,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1443,
+    "optimismLiquidityActive": 5.225109341049948e+22,
+    "totalLiquidityActive": 5.225109341049948e+22,
+    "totalLiquidityLockedToken0": 2.4304031690637453,
+    "totalLiquidityLockedToken1": 2.8079366834112958,
+    "price0": 1.1552222913291774,
+    "price1": 0.8656342658082009,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1442,
+    "optimismLiquidityActive": 5.193188703242158e+22,
+    "totalLiquidityActive": 5.193188703242158e+22,
+    "totalLiquidityLockedToken0": 2.4156764039520375,
+    "totalLiquidityLockedToken1": 2.7906432304833,
+    "price0": 1.1551067806511122,
+    "price1": 0.8657208292347817,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1441,
+    "optimismLiquidityActive": 2.2454495524338073e+22,
+    "totalLiquidityActive": 2.2454495524338073e+22,
+    "totalLiquidityLockedToken0": 1.0445510489321146,
+    "totalLiquidityLockedToken1": 1.2065679993577174,
+    "price0": 1.15499128152296,
+    "price1": 0.8658074013177052,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1440,
+    "optimismLiquidityActive": 2.242092165872099e+22,
+    "totalLiquidityActive": 2.242092165872099e+22,
+    "totalLiquidityLockedToken0": 1.0430413888321253,
+    "totalLiquidityLockedToken1": 1.2047037103687044,
+    "price0": 1.1548757939435657,
+    "price1": 0.865893982057837,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1439,
+    "optimismLiquidityActive": 2.2414910752369448e+22,
+    "totalLiquidityActive": 2.2414910752369448e+22,
+    "totalLiquidityLockedToken0": 1.0428138928608295,
+    "totalLiquidityLockedToken1": 1.2043205224530307,
+    "price0": 1.1547603179117745,
+    "price1": 0.8659805714560428,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1438,
+    "optimismLiquidityActive": 2.2414910752369448e+22,
+    "totalLiquidityActive": 2.2414910752369448e+22,
+    "totalLiquidityLockedToken0": 1.0428660322520202,
+    "totalLiquidityLockedToken1": 1.2042603109427337,
+    "price0": 1.1546448534264317,
+    "price1": 0.8660671695131884,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1437,
+    "optimismLiquidityActive": 417051591189094200000,
+    "totalLiquidityActive": 417051591189094200000,
+    "totalLiquidityLockedToken0": 0.01940452446392443,
+    "totalLiquidityLockedToken1": 0.02240533430545763,
+    "price0": 1.154529400486383,
+    "price1": 0.8661537762301397,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1436,
+    "optimismLiquidityActive": 412947931183085500000,
+    "totalLiquidityActive": 412947931183085500000,
+    "totalLiquidityLockedToken0": 0.01921455053802116,
+    "totalLiquidityLockedToken1": 0.022183763513276878,
+    "price0": 1.154413959090474,
+    "price1": 0.8662403916077627,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1435,
+    "optimismLiquidityActive": 412947931183085500000,
+    "totalLiquidityActive": 412947931183085500000,
+    "totalLiquidityLockedToken0": 0.01921551124153107,
+    "totalLiquidityLockedToken1": 0.022182654408283396,
+    "price0": 1.1542985292375503,
+    "price1": 0.8663270156469235,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1434,
+    "optimismLiquidityActive": 392428828853722400000,
+    "totalLiquidityActive": 392428828853722400000,
+    "totalLiquidityLockedToken0": 0.018261618546768613,
+    "totalLiquidityLockedToken1": 0.021079359430032182,
+    "price0": 1.1541831109264578,
+    "price1": 0.8664136483484881,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1433,
+    "optimismLiquidityActive": 392428828853722400000,
+    "totalLiquidityActive": 392428828853722400000,
+    "totalLiquidityLockedToken0": 0.01826253160487007,
+    "totalLiquidityLockedToken1": 0.021078305541101693,
+    "price0": 1.154067704156042,
+    "price1": 0.866500289713323,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1432,
+    "optimismLiquidityActive": 14207278678052990000,
+    "totalLiquidityActive": 14207278678052990000,
+    "totalLiquidityLockedToken0": 0.000661199762908708,
+    "totalLiquidityLockedToken1": 0.000763069292368572,
+    "price0": 1.1539523089251496,
+    "price1": 0.8665869397422943,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1431,
+    "optimismLiquidityActive": 14207278678052990000,
+    "totalLiquidityActive": 14207278678052990000,
+    "totalLiquidityLockedToken0": 0.0006612328220703951,
+    "totalLiquidityLockedToken1": 0.000763031141765225,
+    "price0": 1.1538369252326264,
+    "price1": 0.8666735984362686,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1430,
+    "optimismLiquidityActive": 13102304168691094000,
+    "totalLiquidityActive": 13102304168691094000,
+    "totalLiquidityLockedToken0": 0.0006098357701198184,
+    "totalLiquidityLockedToken1": 0.000703651029891922,
+    "price0": 1.1537215530773186,
+    "price1": 0.8667602657961122,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1429,
+    "optimismLiquidityActive": 13102304168691094000,
+    "totalLiquidityActive": 13102304168691094000,
+    "totalLiquidityLockedToken0": 0.0006098662611460679,
+    "totalLiquidityLockedToken1": 0.000703615849978899,
+    "price0": 1.1536061924580727,
+    "price1": 0.8668469418226918,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1428,
+    "optimismLiquidityActive": 13102304168691094000,
+    "totalLiquidityActive": 13102304168691094000,
+    "totalLiquidityLockedToken0": 0.0006098967536968301,
+    "totalLiquidityLockedToken1": 0.000703580671824739,
+    "price0": 1.1534908433737354,
+    "price1": 0.8669336265168741,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1427,
+    "optimismLiquidityActive": 13102304168691094000,
+    "totalLiquidityActive": 13102304168691094000,
+    "totalLiquidityLockedToken0": 0.0006099272477721826,
+    "totalLiquidityLockedToken1": 0.000703545495429356,
+    "price0": 1.1533755058231532,
+    "price1": 0.8670203198795258,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1426,
+    "optimismLiquidityActive": 13102304168691094000,
+    "totalLiquidityActive": 13102304168691094000,
+    "totalLiquidityLockedToken0": 0.0006099577433721998,
+    "totalLiquidityLockedToken1": 0.00070351032079266,
+    "price0": 1.1532601798051725,
+    "price1": 0.8671070219115137,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1425,
+    "optimismLiquidityActive": 13102304168691094000,
+    "totalLiquidityActive": 13102304168691094000,
+    "totalLiquidityLockedToken0": 0.0006099882404969592,
+    "totalLiquidityLockedToken1": 0.000703475147914564,
+    "price0": 1.1531448653186407,
+    "price1": 0.8671937326137049,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1424,
+    "optimismLiquidityActive": 13102304168691094000,
+    "totalLiquidityActive": 13102304168691094000,
+    "totalLiquidityLockedToken0": 0.0006100187391465367,
+    "totalLiquidityLockedToken1": 0.00070343997679498,
+    "price0": 1.1530295623624045,
+    "price1": 0.8672804519869662,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1423,
+    "optimismLiquidityActive": 13102304168691094000,
+    "totalLiquidityActive": 13102304168691094000,
+    "totalLiquidityLockedToken0": 0.0006100492393210093,
+    "totalLiquidityLockedToken1": 0.000703404807433821,
+    "price0": 1.1529142709353108,
+    "price1": 0.867367180032165,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1422,
+    "optimismLiquidityActive": 8408224235439418000,
+    "totalLiquidityActive": 8408224235439418000,
+    "totalLiquidityLockedToken0": 0.0003915103174185598,
+    "totalLiquidityLockedToken1": 0.000451377832170271,
+    "price0": 1.1527989910362073,
+    "price1": 0.8674539167501681,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1421,
+    "optimismLiquidityActive": 8408224235439418000,
+    "totalLiquidityActive": 8408224235439418000,
+    "totalLiquidityLockedToken0": 0.000391529892445067,
+    "totalLiquidityLockedToken1": 0.000451355264971188,
+    "price0": 1.1526837226639408,
+    "price1": 0.8675406621418431,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1420,
+    "optimismLiquidityActive": 8408224235439418000,
+    "totalLiquidityActive": 8408224235439418000,
+    "totalLiquidityLockedToken0": 0.0003915494684503008,
+    "totalLiquidityLockedToken1": 0.00045133269890038,
+    "price0": 1.1525684658173592,
+    "price1": 0.8676274162080574,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1419,
+    "optimismLiquidityActive": 8408224235439418000,
+    "totalLiquidityActive": 8408224235439418000,
+    "totalLiquidityLockedToken0": 0.0003915690454343113,
+    "totalLiquidityLockedToken1": 0.000451310133957792,
+    "price0": 1.1524532204953097,
+    "price1": 0.8677141789496782,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1418,
+    "optimismLiquidityActive": 8408224235439418000,
+    "totalLiquidityActive": 8408224235439418000,
+    "totalLiquidityLockedToken0": 0.0003915886233971461,
+    "totalLiquidityLockedToken1": 0.000451287570143366,
+    "price0": 1.15233798669664,
+    "price1": 0.8678009503675731,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1417,
+    "optimismLiquidityActive": 8408224235439418000,
+    "totalLiquidityActive": 8408224235439418000,
+    "totalLiquidityLockedToken0": 0.0003916082023388545,
+    "totalLiquidityLockedToken1": 0.000451265007457046,
+    "price0": 1.1522227644201979,
+    "price1": 0.8678877304626099,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1416,
+    "optimismLiquidityActive": 8408224235439418000,
+    "totalLiquidityActive": 8408224235439418000,
+    "totalLiquidityLockedToken0": 0.0003916277822594857,
+    "totalLiquidityLockedToken1": 0.000451242445898776,
+    "price0": 1.1521075536648315,
+    "price1": 0.8679745192356562,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1415,
+    "optimismLiquidityActive": 8408224235439418000,
+    "totalLiquidityActive": 8408224235439418000,
+    "totalLiquidityLockedToken0": 0.00039164736315908826,
+    "totalLiquidityLockedToken1": 0.000451219885468499,
+    "price0": 1.1519923544293886,
+    "price1": 0.8680613166875797,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1414,
+    "optimismLiquidityActive": 8408224235439418000,
+    "totalLiquidityActive": 8408224235439418000,
+    "totalLiquidityLockedToken0": 0.00039166694503771224,
+    "totalLiquidityLockedToken1": 0.00045119732616616,
+    "price0": 1.1518771667127172,
+    "price1": 0.8681481228192485,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1413,
+    "optimismLiquidityActive": 8408224235439418000,
+    "totalLiquidityActive": 8408224235439418000,
+    "totalLiquidityLockedToken0": 0.0003916865278954043,
+    "totalLiquidityLockedToken1": 0.0004511747679917,
+    "price0": 1.1517619905136658,
+    "price1": 0.8682349376315304,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1412,
+    "optimismLiquidityActive": 8408224235439418000,
+    "totalLiquidityActive": 8408224235439418000,
+    "totalLiquidityLockedToken0": 0.0003917061117322155,
+    "totalLiquidityLockedToken1": 0.000451152210945065,
+    "price0": 1.1516468258310828,
+    "price1": 0.8683217611252936,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1411,
+    "optimismLiquidityActive": 8408224235439418000,
+    "totalLiquidityActive": 8408224235439418000,
+    "totalLiquidityLockedToken0": 0.0003917256965481944,
+    "totalLiquidityLockedToken1": 0.000451129655026198,
+    "price0": 1.1515316726638165,
+    "price1": 0.8684085933014061,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1410,
+    "optimismLiquidityActive": 8408224235439418000,
+    "totalLiquidityActive": 8408224235439418000,
+    "totalLiquidityLockedToken0": 0.0003917452823433892,
+    "totalLiquidityLockedToken1": 0.000451107100235042,
+    "price0": 1.1514165310107154,
+    "price1": 0.8684954341607362,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1409,
+    "optimismLiquidityActive": 8408224235439418000,
+    "totalLiquidityActive": 8408224235439418000,
+    "totalLiquidityLockedToken0": 0.0003917648691178493,
+    "totalLiquidityLockedToken1": 0.000451084546571541,
+    "price0": 1.1513014008706284,
+    "price1": 0.8685822837041522,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1408,
+    "optimismLiquidityActive": 8408224235439418000,
+    "totalLiquidityActive": 8408224235439418000,
+    "totalLiquidityLockedToken0": 0.0003917844568716231,
+    "totalLiquidityLockedToken1": 0.000451061994035638,
+    "price0": 1.151186282242404,
+    "price1": 0.8686691419325226,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1407,
+    "optimismLiquidityActive": 8404904832199761000,
+    "totalLiquidityActive": 8404904832199761000,
+    "totalLiquidityLockedToken0": 0.00039164936899506556,
+    "totalLiquidityLockedToken1": 0.000450861381036013,
+    "price0": 1.1510711751248914,
+    "price1": 0.868756008846716,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1406,
+    "optimismLiquidityActive": 8404904832199761000,
+    "totalLiquidityActive": 8404904832199761000,
+    "totalLiquidityLockedToken0": 0.00039166895097397856,
+    "totalLiquidityLockedToken1": 0.000450838839657551,
+    "price0": 1.1509560795169398,
+    "price1": 0.8688428844476006,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1405,
+    "optimismLiquidityActive": 8404904832199761000,
+    "totalLiquidityActive": 8404904832199761000,
+    "totalLiquidityLockedToken0": 0.0003916885339319656,
+    "totalLiquidityLockedToken1": 0.000450816299406073,
+    "price0": 1.1508409954173981,
+    "price1": 0.8689297687360454,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1404,
+    "optimismLiquidityActive": 8404904832199761000,
+    "totalLiquidityActive": 8404904832199761000,
+    "totalLiquidityLockedToken0": 0.0003917081178690761,
+    "totalLiquidityLockedToken1": 0.000450793760281523,
+    "price0": 1.1507259228251157,
+    "price1": 0.869016661712919,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1403,
+    "optimismLiquidityActive": 8404904832199761000,
+    "totalLiquidityActive": 8404904832199761000,
+    "totalLiquidityLockedToken0": 0.00039172770278535825,
+    "totalLiquidityLockedToken1": 0.000450771222283844,
+    "price0": 1.1506108617389417,
+    "price1": 0.8691035633790902,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1402,
+    "optimismLiquidityActive": 8404904832199761000,
+    "totalLiquidityActive": 8404904832199761000,
+    "totalLiquidityLockedToken0": 0.0003917472886808623,
+    "totalLiquidityLockedToken1": 0.000450748685412981,
+    "price0": 1.150495812157726,
+    "price1": 0.8691904737354282,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1401,
+    "optimismLiquidityActive": 8404904832199761000,
+    "totalLiquidityActive": 8404904832199761000,
+    "totalLiquidityLockedToken0": 0.00039176687555563764,
+    "totalLiquidityLockedToken1": 0.000450726149668878,
+    "price0": 1.1503807740803178,
+    "price1": 0.8692773927828017,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1400,
+    "optimismLiquidityActive": 8404904832199761000,
+    "totalLiquidityActive": 8404904832199761000,
+    "totalLiquidityLockedToken0": 0.00039178646340973054,
+    "totalLiquidityLockedToken1": 0.000450703615051476,
+    "price0": 1.1502657475055673,
+    "price1": 0.86936432052208,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1399,
+    "optimismLiquidityActive": 8404904832199761000,
+    "totalLiquidityActive": 8404904832199761000,
+    "totalLiquidityLockedToken0": 0.0003918060522431923,
+    "totalLiquidityLockedToken1": 0.000450681081560721,
+    "price0": 1.1501507324323241,
+    "price1": 0.8694512569541322,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1398,
+    "optimismLiquidityActive": 8404904832199761000,
+    "totalLiquidityActive": 8404904832199761000,
+    "totalLiquidityLockedToken0": 0.0003918256420560721,
+    "totalLiquidityLockedToken1": 0.000450658549196557,
+    "price0": 1.150035728859438,
+    "price1": 0.8695382020798277,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1397,
+    "optimismLiquidityActive": 8404904832199761000,
+    "totalLiquidityActive": 8404904832199761000,
+    "totalLiquidityLockedToken0": 0.00039184523284841745,
+    "totalLiquidityLockedToken1": 0.000450636017958926,
+    "price0": 1.1499207367857596,
+    "price1": 0.8696251559000356,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1396,
+    "optimismLiquidityActive": 8404904832199761000,
+    "totalLiquidityActive": 8404904832199761000,
+    "totalLiquidityLockedToken0": 0.0003918648246202775,
+    "totalLiquidityLockedToken1": 0.000450613487847772,
+    "price0": 1.1498057562101385,
+    "price1": 0.8697121184156256,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1395,
+    "optimismLiquidityActive": 8404904832199761000,
+    "totalLiquidityActive": 8404904832199761000,
+    "totalLiquidityLockedToken0": 0.00039188441737170166,
+    "totalLiquidityLockedToken1": 0.000450590958863039,
+    "price0": 1.1496907871314255,
+    "price1": 0.8697990896274672,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1394,
+    "optimismLiquidityActive": 8404904832199761000,
+    "totalLiquidityActive": 8404904832199761000,
+    "totalLiquidityLockedToken0": 0.0003919040111027391,
+    "totalLiquidityLockedToken1": 0.000450568431004671,
+    "price0": 1.1495758295484706,
+    "price1": 0.8698860695364299,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1393,
+    "optimismLiquidityActive": 8404904832199761000,
+    "totalLiquidityActive": 8404904832199761000,
+    "totalLiquidityLockedToken0": 0.00039192360581343904,
+    "totalLiquidityLockedToken1": 0.000450545904272612,
+    "price0": 1.1494608834601245,
+    "price1": 0.8699730581433835,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1392,
+    "optimismLiquidityActive": 8404904832199761000,
+    "totalLiquidityActive": 8404904832199761000,
+    "totalLiquidityLockedToken0": 0.0003919432015038499,
+    "totalLiquidityLockedToken1": 0.000450523378666805,
+    "price0": 1.149345948865238,
+    "price1": 0.870060055449198,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1391,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.0003663521108980429,
+    "totalLiquidityLockedToken1": 0.000421065314518894,
+    "price0": 1.1492310257626617,
+    "price1": 0.8701470614547429,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1390,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.00036637042804567104,
+    "totalLiquidityLockedToken1": 0.000421044262832032,
+    "price0": 1.1491161141512467,
+    "price1": 0.8702340761608883,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1389,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.0003663887461091325,
+    "totalLiquidityLockedToken1": 0.000421023212197674,
+    "price0": 1.1490012140298436,
+    "price1": 0.8703210995685043,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1388,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.0003664070650884752,
+    "totalLiquidityLockedToken1": 0.00042100216261577,
+    "price0": 1.1488863253973038,
+    "price1": 0.8704081316784612,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1387,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.0003664253849837439,
+    "totalLiquidityLockedToken1": 0.000420981114086266,
+    "price0": 1.1487714482524787,
+    "price1": 0.8704951724916291,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1386,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.000366443705794984,
+    "totalLiquidityLockedToken1": 0.000420960066609109,
+    "price0": 1.1486565825942192,
+    "price1": 0.8705822220088782,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1385,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.0003664620275222418,
+    "totalLiquidityLockedToken1": 0.000420939020184247,
+    "price0": 1.148541728421377,
+    "price1": 0.8706692802310791,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1384,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.0003664803501655636,
+    "totalLiquidityLockedToken1": 0.000420917974811628,
+    "price0": 1.148426885732804,
+    "price1": 0.8707563471591022,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1383,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.00036649867372499413,
+    "totalLiquidityLockedToken1": 0.000420896930491198,
+    "price0": 1.148312054527351,
+    "price1": 0.8708434227938182,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1382,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.0003665169982005805,
+    "totalLiquidityLockedToken1": 0.000420875887222906,
+    "price0": 1.1481972348038707,
+    "price1": 0.8709305071360975,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1381,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.00036653532359236723,
+    "totalLiquidityLockedToken1": 0.000420854845006698,
+    "price0": 1.1480824265612146,
+    "price1": 0.8710176001868112,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1380,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.00036655364990039987,
+    "totalLiquidityLockedToken1": 0.000420833803842521,
+    "price0": 1.1479676297982349,
+    "price1": 0.8711047019468299,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1379,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.00036657197712472645,
+    "totalLiquidityLockedToken1": 0.000420812763730325,
+    "price0": 1.1478528445137834,
+    "price1": 0.8711918124170245,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1378,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.0003665903052653899,
+    "totalLiquidityLockedToken1": 0.000420791724670054,
+    "price0": 1.1477380707067126,
+    "price1": 0.8712789315982662,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1377,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.0003666086343224382,
+    "totalLiquidityLockedToken1": 0.000420770686661658,
+    "price0": 1.1476233083758751,
+    "price1": 0.8713660594914261,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1376,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.00036662696429591693,
+    "totalLiquidityLockedToken1": 0.000420749649705084,
+    "price0": 1.1475085575201232,
+    "price1": 0.8714531960973751,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1375,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.0003666452951858705,
+    "totalLiquidityLockedToken1": 0.000420728613800278,
+    "price0": 1.1473938181383092,
+    "price1": 0.8715403414169849,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1374,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.0003666636269923462,
+    "totalLiquidityLockedToken1": 0.000420707578947189,
+    "price0": 1.1472790902292864,
+    "price1": 0.8716274954511266,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1373,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.00036668195971538956,
+    "totalLiquidityLockedToken1": 0.000420686545145764,
+    "price0": 1.1471643737919073,
+    "price1": 0.8717146582006717,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1372,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.000366700293355046,
+    "totalLiquidityLockedToken1": 0.00042066551239595,
+    "price0": 1.1470496688250247,
+    "price1": 0.8718018296664918,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1371,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.0003667186279113609,
+    "totalLiquidityLockedToken1": 0.000420644480697694,
+    "price0": 1.146934975327492,
+    "price1": 0.8718890098494585,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1370,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.0003667369633843807,
+    "totalLiquidityLockedToken1": 0.000420623450050944,
+    "price0": 1.1468202932981622,
+    "price1": 0.8719761987504434,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1369,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.0003667552997741517,
+    "totalLiquidityLockedToken1": 0.000420602420455648,
+    "price0": 1.1467056227358885,
+    "price1": 0.8720633963703185,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1368,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.0003667736370807193,
+    "totalLiquidityLockedToken1": 0.000420581391911753,
+    "price0": 1.1465909636395246,
+    "price1": 0.8721506027099555,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1367,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.0003667919753041299,
+    "totalLiquidityLockedToken1": 0.000420560364419207,
+    "price0": 1.1464763160079239,
+    "price1": 0.8722378177702265,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1366,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.00036681031444442804,
+    "totalLiquidityLockedToken1": 0.000420539337977956,
+    "price0": 1.1463616798399399,
+    "price1": 0.8723250415520035,
+    "isCurrent": false
+  },
+  {
+    "tickIdx": 1365,
+    "optimismLiquidityActive": 7855731823320863000,
+    "totalLiquidityActive": 7855731823320863000,
+    "totalLiquidityLockedToken0": 0.00036682865450166015,
+    "totalLiquidityLockedToken1": 0.000420518312587948,
+    "price0": 1.1462470551344264,
+    "price1": 0.8724122740561587,
+    "isCurrent": false
+  }
+]

@@ -1,0 +1,150 @@
+"use client";
+
+import * as React from "react";
+import { Bar, BarChart, Cell } from "recharts";
+import Image from "next/image";
+
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "../../ui/card";
+import {
+  ChartConfig,
+  ChartContainer,
+  ChartTooltip,
+  ChartTooltipContent,
+} from "../../ui/chart";
+
+import { useEthereumEzethWethLp } from "../../../hooks/ethereum/useEthereumEzethWethLp";
+import { PacmanLoader } from "react-spinners";
+import { useTheme } from "next-themes";
+import { Button } from "@/components/ui/button";
+import { RotateCcw } from "lucide-react";
+
+// Import JSON file
+import ethereumEzethWethChartData from "../../../../../data/ethereum/EthereumEzethWethChartTicks.json";
+
+export function EthereumEzethWethBarGraph() {
+  const { loading, fetchEthereumEzethWethLp } = useEthereumEzethWethLp();
+  const { theme } = useTheme();
+
+  const chartData = ethereumEzethWethChartData.map((tick: any) => {
+    return {
+      tickIdx: tick.tickIdx,
+      liquidityActive: tick.liquidityActive,
+      liquidityLockedToken0: tick.liquidityLockedToken0,
+      liquidityLockedToken1: tick.liquidityLockedToken1,
+      price0: tick.price0,
+      price1: tick.price1,
+      isCurrent: tick.isCurrent,
+      liquidityActiveChart: tick.liquidityActiveChart,
+    };
+  });
+
+  const chartConfig = {
+    tickIdx: {
+      label: "Tick Index",
+    },
+    liquidityActive: {
+      label: "Active Liquidity",
+    },
+    liquidityLockedToken0: {
+      label: "ezETH Locked",
+    },
+    liquidityLockedToken1: {
+      label: "WETH Locked",
+    },
+    price0: {
+      label: "ezETH Price",
+    },
+    price1: {
+      label: "WETH Price",
+    },
+    isCurrent: {
+      label: "Current Tick",
+    },
+    liquidityActiveChart: {
+      label: "Active Liquidity",
+    },
+  } satisfies ChartConfig;
+
+  const handleRefresh = () => {
+    fetchEthereumEzethWethLp();
+  };
+
+  return (
+    <Card>
+      <CardHeader className="flex flex-col items-stretch space-y-0 border-b p-0">
+        <div className="flex flex-row justify-between items-center px-6 py-5">
+          <div className="flex flex-col justify-center gap-1">
+            <CardTitle>ezETH/WETH</CardTitle>
+            <CardDescription className="flex gap-1">
+              <Image
+                src="/icons/eth.svg"
+                alt="Ethereum Network"
+                width={10}
+                height={10}
+              />
+              Ethereum
+            </CardDescription>
+          </div>
+          <div className="flex items-center">
+            <Image
+              src="icons/uniswap.svg"
+              alt="Uniswap"
+              width={30}
+              height={30}
+            />
+          </div>
+        </div>
+      </CardHeader>
+      <CardContent className="px-2 sm:p-6 relative">
+        <Button className="absolute top-2 right-2 z-10" onClick={handleRefresh}>
+          <RotateCcw
+            className={`${theme === "dark" ? "text-black" : "text-white"}`}
+            height={16}
+            width={16}
+          />
+        </Button>
+        {loading ? (
+          <div className="flex justify-center items-center h-[280px]">
+            <PacmanLoader
+              color={theme === "dark" ? "#fff" : "#000"}
+              size={25}
+            />
+          </div>
+        ) : (
+          <ChartContainer
+            config={chartConfig}
+            className="aspect-auto h-[280px] w-full"
+          >
+            <BarChart
+              accessibilityLayer
+              data={chartData}
+              margin={{
+                left: 12,
+                right: 12,
+              }}
+            >
+              <ChartTooltip
+                content={<ChartTooltipContent hideLabel />}
+                wrapperStyle={{ width: 375 }}
+              />
+              <Bar dataKey="liquidityActive" barSize={5} fill="#3D3E3F">
+                {chartData.map((entry, index) => (
+                  <Cell
+                    key={`cell-${index}`}
+                    fill={entry.isCurrent ? "#36454F" : "#A9A9AF"}
+                  />
+                ))}
+              </Bar>
+            </BarChart>
+          </ChartContainer>
+        )}
+      </CardContent>
+    </Card>
+  );
+}

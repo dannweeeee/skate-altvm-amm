@@ -1,0 +1,59 @@
+sources:
+  - name: uniswapv3-ethereum
+    handler:
+      graphql:
+        endpoint: https://gateway.thegraph.com/api/c10c2afdb8cb6dd402bdfc410a0140db/subgraphs/id/4cKy6QQMc5tpfdx8yxfYeb9TLZmgLQe44ddW1G7NwkA6
+    transforms:
+      - autoPagination:
+          validateSchema: true
+      - prefix:
+          value: Ethereum_
+          includeRootOperations: true
+  - name: uniswapv3-optimism
+    handler:
+      graphql:
+        endpoint: https://gateway.thegraph.com/api/c10c2afdb8cb6dd402bdfc410a0140db/subgraphs/id/EgnS9YE1avupkvCNj9fHnJxppfEmNNywYJtghqiu2pd9
+    transforms:
+      - autoPagination:
+          validateSchema: true
+      - prefix:
+          value: Optimism_
+          includeRootOperations: true
+  - name: uniswapv3-arbitrum
+    handler:
+      graphql:
+        endpoint: https://gateway.thegraph.com/api/c10c2afdb8cb6dd402bdfc410a0140db/subgraphs/id/FQ6JYszEKApsBpAmiHesRsd9Ygc6mzmpNRANeVQFYoVX
+    transforms:
+      - autoPagination:
+          validateSchema: true
+      - prefix:
+          value: Arbitrum_
+          includeRootOperations: true
+  - name: uniswapv3-base
+    handler:
+      graphql:
+        endpoint: https://gateway.thegraph.com/api/c10c2afdb8cb6dd402bdfc410a0140db/subgraphs/id/FUbEPQw1oMghy39fwWBFY5fE6MXPXZQtjncQy2cXdrNS
+    transforms:
+      - autoPagination:
+          validateSchema: true
+      - prefix:
+          value: Base_
+          includeRootOperations: true
+
+documents:
+  - ./graphql/*.graphql
+
+codegen:
+  contextType: 'MeshContext & { chainId: number }'
+
+additionalTypeDefs: |
+  extend schema {
+    query: Query
+  }
+
+  extend type Query {
+    uniswapV3Ethereum: Query
+    uniswapV3Optimism: Query
+    uniswapV3Arbitrum: Query
+    uniswapV3Base: Query
+  }

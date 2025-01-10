@@ -1,0 +1,2012 @@
+[
+  {
+    "tickIdx": 273,
+    "liquidityActive": 2.2572026730444774e+21,
+    "liquidityLockedToken0": 0.11132178625556523,
+    "liquidityLockedToken1": 0.11440257846864761,
+    "price0": 1.0276746566571409,
+    "price1": 0.9730706051006823,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.2572026730444774e+21
+  },
+  {
+    "tickIdx": 272,
+    "liquidityActive": 2.2572026730444774e+21,
+    "liquidityLockedToken0": 0.11132178625556523,
+    "liquidityLockedToken1": 0.11440257846864761,
+    "price0": 1.027571899467194,
+    "price1": 0.9731679121611924,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.2572026730444774e+21
+  },
+  {
+    "tickIdx": 271,
+    "liquidityActive": 2.2572026730444774e+21,
+    "liquidityLockedToken0": 0.11132735220573271,
+    "liquidityLockedToken1": 0.1143968587686981,
+    "price0": 1.0274691525519388,
+    "price1": 0.9732652289524085,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.2572026730444774e+21
+  },
+  {
+    "tickIdx": 270,
+    "liquidityActive": 2.2572026730444774e+21,
+    "liquidityLockedToken0": 0.11133291843419078,
+    "liquidityLockedToken1": 0.11439113935471214,
+    "price0": 1.027366415910348,
+    "price1": 0.9733625554753038,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.2572026730444774e+21
+  },
+  {
+    "tickIdx": 269,
+    "liquidityActive": 2.2572026730444774e+21,
+    "liquidityLockedToken0": 0.1113384849409533,
+    "liquidityLockedToken1": 0.11438542022667543,
+    "price0": 1.0272636895413938,
+    "price1": 0.9734598917308513,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.2572026730444774e+21
+  },
+  {
+    "tickIdx": 268,
+    "liquidityActive": 2.2572026730444774e+21,
+    "liquidityLockedToken0": 0.1113440517260342,
+    "liquidityLockedToken1": 0.11437970138457368,
+    "price0": 1.0271609734440494,
+    "price1": 0.9735572377200243,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.2572026730444774e+21
+  },
+  {
+    "tickIdx": 267,
+    "liquidityActive": 2.2572026730444774e+21,
+    "liquidityLockedToken0": 0.11134961878944738,
+    "liquidityLockedToken1": 0.11437398282839259,
+    "price0": 1.0270582676172877,
+    "price1": 0.9736545934437963,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.2572026730444774e+21
+  },
+  {
+    "tickIdx": 266,
+    "liquidityActive": 2.2572026730444774e+21,
+    "liquidityLockedToken0": 0.11135518613120679,
+    "liquidityLockedToken1": 0.11436826455811787,
+    "price0": 1.0269555720600816,
+    "price1": 0.9737519589031408,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.2572026730444774e+21
+  },
+  {
+    "tickIdx": 265,
+    "liquidityActive": 2.5684180649310536e+22,
+    "liquidityLockedToken0": 1.2671479396817515,
+    "liquidityLockedToken1": 1.301304637280627,
+    "price0": 1.0268528867714044,
+    "price1": 0.9738493340990311,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5684180649310536e+22
+  },
+  {
+    "tickIdx": 264,
+    "liquidityActive": 2.5684180649310536e+22,
+    "liquidityLockedToken0": 1.2672112954948798,
+    "liquidityLockedToken1": 1.3012395769282485,
+    "price0": 1.0267502117502294,
+    "price1": 0.973946719032441,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5684180649310536e+22
+  },
+  {
+    "tickIdx": 263,
+    "liquidityActive": 2.5684180649310536e+22,
+    "liquidityLockedToken0": 1.2672746544757196,
+    "liquidityLockedToken1": 1.301174519828644,
+    "price0": 1.0266475469955298,
+    "price1": 0.9740441137043442,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5684180649310536e+22
+  },
+  {
+    "tickIdx": 262,
+    "liquidityActive": 2.5684180649310536e+22,
+    "liquidityLockedToken0": 1.2673380166244292,
+    "liquidityLockedToken1": 1.3011094659816504,
+    "price0": 1.0265448925062792,
+    "price1": 0.9741415181157147,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5684180649310536e+22
+  },
+  {
+    "tickIdx": 261,
+    "liquidityActive": 2.5684180649310536e+22,
+    "liquidityLockedToken0": 1.2674013819411671,
+    "liquidityLockedToken1": 1.3010444153871052,
+    "price0": 1.026442248281451,
+    "price1": 0.9742389322675262,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5684180649310536e+22
+  },
+  {
+    "tickIdx": 260,
+    "liquidityActive": 2.5684180649310536e+22,
+    "liquidityLockedToken0": 1.2674647504260919,
+    "liquidityLockedToken1": 1.300979368044846,
+    "price0": 1.0263396143200192,
+    "price1": 0.974336356160753,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5684180649310536e+22
+  },
+  {
+    "tickIdx": 259,
+    "liquidityActive": 2.5684180649310536e+22,
+    "liquidityLockedToken0": 1.2675281220793613,
+    "liquidityLockedToken1": 1.3009143239547099,
+    "price0": 1.026236990620957,
+    "price1": 0.9744337897963691,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5684180649310536e+22
+  },
+  {
+    "tickIdx": 258,
+    "liquidityActive": 2.5684180649310536e+22,
+    "liquidityLockedToken0": 1.2675914969011344,
+    "liquidityLockedToken1": 1.3008492831165344,
+    "price0": 1.0261343771832387,
+    "price1": 0.9745312331753487,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5684180649310536e+22
+  },
+  {
+    "tickIdx": 257,
+    "liquidityActive": 2.5684180649310536e+22,
+    "liquidityLockedToken0": 1.2676548748915692,
+    "liquidityLockedToken1": 1.3007842455301568,
+    "price0": 1.0260317740058382,
+    "price1": 0.9746286862986663,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5684180649310536e+22
+  },
+  {
+    "tickIdx": 256,
+    "liquidityActive": 2.5684180649310536e+22,
+    "liquidityLockedToken0": 1.2677182560508247,
+    "liquidityLockedToken1": 1.300719211195415,
+    "price0": 1.0259291810877293,
+    "price1": 0.974726149167296,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5684180649310536e+22
+  },
+  {
+    "tickIdx": 255,
+    "liquidityActive": 2.5684180649310536e+22,
+    "liquidityLockedToken0": 1.2677816403790585,
+    "liquidityLockedToken1": 1.3006541801121456,
+    "price0": 1.0258265984278865,
+    "price1": 0.9748236217822128,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5684180649310536e+22
+  },
+  {
+    "tickIdx": 254,
+    "liquidityActive": 2.5684180649310536e+22,
+    "liquidityLockedToken0": 1.2678450278764295,
+    "liquidityLockedToken1": 1.3005891522801867,
+    "price0": 1.025724026025284,
+    "price1": 0.974921104144391,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5684180649310536e+22
+  },
+  {
+    "tickIdx": 253,
+    "liquidityActive": 2.5684180649310536e+22,
+    "liquidityLockedToken0": 1.2679084185430964,
+    "liquidityLockedToken1": 1.3005241276993758,
+    "price0": 1.025621463878896,
+    "price1": 0.9750185962548055,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5684180649310536e+22
+  },
+  {
+    "tickIdx": 252,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2683509878723014,
+    "liquidityLockedToken1": 1.3008479968938338,
+    "price0": 1.0255189119876973,
+    "price1": 0.975116098114431,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 251,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2684144038363356,
+    "liquidityLockedToken1": 1.3007829593717626,
+    "price0": 1.0254163703506622,
+    "price1": 0.9752136097242424,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 250,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2684778229710887,
+    "liquidityLockedToken1": 1.3007179251013237,
+    "price0": 1.0253138389667655,
+    "price1": 0.9753111310852148,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 249,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2685412452767193,
+    "liquidityLockedToken1": 1.3006528940823545,
+    "price0": 1.0252113178349822,
+    "price1": 0.9754086621983233,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 248,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2686046707533856,
+    "liquidityLockedToken1": 1.3005878663146921,
+    "price0": 1.0251088069542866,
+    "price1": 0.9755062030645432,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 247,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.268668099401247,
+    "liquidityLockedToken1": 1.3005228417981747,
+    "price0": 1.0250063063236543,
+    "price1": 0.9756037536848496,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 246,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.268731531220461,
+    "liquidityLockedToken1": 1.300457820532639,
+    "price0": 1.02490381594206,
+    "price1": 0.9757013140602181,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 245,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.268794966211187,
+    "liquidityLockedToken1": 1.3003928025179228,
+    "price0": 1.0248013358084793,
+    "price1": 0.9757988841916242,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 244,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.268858404373583,
+    "liquidityLockedToken1": 1.3003277877538635,
+    "price0": 1.0246988659218872,
+    "price1": 0.9758964640800433,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 243,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.268921845707808,
+    "liquidityLockedToken1": 1.3002627762402987,
+    "price0": 1.024596406281259,
+    "price1": 0.9759940537264513,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 242,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2689852902140206,
+    "liquidityLockedToken1": 1.300197767977066,
+    "price0": 1.0244939568855704,
+    "price1": 0.976091653131824,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 241,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2690487378923792,
+    "liquidityLockedToken1": 1.3001327629640025,
+    "price0": 1.024391517733797,
+    "price1": 0.9761892622971371,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 240,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2691121887430417,
+    "liquidityLockedToken1": 1.3000677612009457,
+    "price0": 1.0242890888249145,
+    "price1": 0.9762868812233668,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 239,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.269175642766168,
+    "liquidityLockedToken1": 1.3000027626877335,
+    "price0": 1.0241866701578988,
+    "price1": 0.9763845099114892,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 238,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2692390999619163,
+    "liquidityLockedToken1": 1.2999377674242034,
+    "price0": 1.0240842617317256,
+    "price1": 0.9764821483624804,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 237,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2693025603304449,
+    "liquidityLockedToken1": 1.2998727754101926,
+    "price0": 1.023981863545371,
+    "price1": 0.9765797965773166,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 236,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2693660238719124,
+    "liquidityLockedToken1": 1.2998077866455389,
+    "price0": 1.0238794755978113,
+    "price1": 0.9766774545569743,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 235,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2694294905864778,
+    "liquidityLockedToken1": 1.2997428011300796,
+    "price0": 1.0237770978880225,
+    "price1": 0.97677512230243,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 234,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2694929604742995,
+    "liquidityLockedToken1": 1.2996778188636524,
+    "price0": 1.023674730414981,
+    "price1": 0.9768727998146602,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 233,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2695564335355363,
+    "liquidityLockedToken1": 1.2996128398460949,
+    "price0": 1.0235723731776631,
+    "price1": 0.9769704870946417,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 232,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2696199097703469,
+    "liquidityLockedToken1": 1.2995478640772447,
+    "price0": 1.0234700261750458,
+    "price1": 0.9770681841433512,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 231,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.26968338917889,
+    "liquidityLockedToken1": 1.2994828915569392,
+    "price0": 1.023367689406105,
+    "price1": 0.9771658909617655,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 230,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.269746871761324,
+    "liquidityLockedToken1": 1.2994179222850162,
+    "price0": 1.023265362869818,
+    "price1": 0.9772636075508617,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 229,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.269810357517808,
+    "liquidityLockedToken1": 1.299352956261313,
+    "price0": 1.0231630465651615,
+    "price1": 0.9773613339116168,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 228,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2698738464485002,
+    "liquidityLockedToken1": 1.2992879934856676,
+    "price0": 1.0230607404911125,
+    "price1": 0.977459070045008,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 227,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2699373385535597,
+    "liquidityLockedToken1": 1.2992230339579174,
+    "price0": 1.0229584446466478,
+    "price1": 0.9775568159520125,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 226,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2700008338331452,
+    "liquidityLockedToken1": 1.2991580776779,
+    "price0": 1.0228561590307448,
+    "price1": 0.9776545716336077,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 225,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2700643322874152,
+    "liquidityLockedToken1": 1.299093124645453,
+    "price0": 1.0227538836423804,
+    "price1": 0.977752337090771,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 224,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2701278339165283,
+    "liquidityLockedToken1": 1.2990281748604138,
+    "price0": 1.0226516184805323,
+    "price1": 0.97785011232448,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 223,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2701913387206436,
+    "liquidityLockedToken1": 1.2989632283226205,
+    "price0": 1.022549363544178,
+    "price1": 0.9779478973357125,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 222,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.27025484669992,
+    "liquidityLockedToken1": 1.2988982850319106,
+    "price0": 1.0224471188322948,
+    "price1": 0.9780456921254461,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 221,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2703183578545159,
+    "liquidityLockedToken1": 1.2988333449881218,
+    "price0": 1.0223448843438605,
+    "price1": 0.9781434966946586,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 220,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2703818721845899,
+    "liquidityLockedToken1": 1.2987684081910915,
+    "price0": 1.0222426600778527,
+    "price1": 0.9782413110443281,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 219,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2704453896903012,
+    "liquidityLockedToken1": 1.2987034746406576,
+    "price0": 1.0221404460332493,
+    "price1": 0.9783391351754326,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 218,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2705089103718086,
+    "liquidityLockedToken1": 1.298638544336658,
+    "price0": 1.0220382422090284,
+    "price1": 0.9784369690889501,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 217,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2705724342292701,
+    "liquidityLockedToken1": 1.2985736172789297,
+    "price0": 1.021936048604168,
+    "price1": 0.978534812785859,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 216,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2706359612628457,
+    "liquidityLockedToken1": 1.2985086934673111,
+    "price0": 1.0218338652176462,
+    "price1": 0.9786326662671376,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 215,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2706994914726932,
+    "liquidityLockedToken1": 1.2984437729016396,
+    "price0": 1.0217316920484414,
+    "price1": 0.9787305295337643,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 214,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.270763024858972,
+    "liquidityLockedToken1": 1.298378855581753,
+    "price0": 1.0216295290955317,
+    "price1": 0.9788284025867177,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 213,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2708265614218406,
+    "liquidityLockedToken1": 1.298313941507489,
+    "price0": 1.021527376357896,
+    "price1": 0.9789262854269764,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 212,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.270890101161458,
+    "liquidityLockedToken1": 1.2982490306786851,
+    "price0": 1.0214252338345127,
+    "price1": 0.979024178055519,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 211,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2709536440779827,
+    "liquidityLockedToken1": 1.2981841230951794,
+    "price0": 1.0213231015243602,
+    "price1": 0.9791220804733246,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 210,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2710171901715739,
+    "liquidityLockedToken1": 1.2981192187568094,
+    "price0": 1.0212209794264175,
+    "price1": 0.9792199926813719,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 209,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2710807394423904,
+    "liquidityLockedToken1": 1.298054317663413,
+    "price0": 1.0211188675396634,
+    "price1": 0.9793179146806401,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 208,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.271144291890591,
+    "liquidityLockedToken1": 1.2979894198148278,
+    "price0": 1.0210167658630773,
+    "price1": 0.9794158464721081,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 207,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2712078475163349,
+    "liquidityLockedToken1": 1.297924525210892,
+    "price0": 1.0209146743956377,
+    "price1": 0.9795137880567554,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 206,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2712714063197803,
+    "liquidityLockedToken1": 1.2978596338514428,
+    "price0": 1.020812593136324,
+    "price1": 0.979611739435561,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 205,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2713349683010864,
+    "liquidityLockedToken1": 1.2977947457363184,
+    "price0": 1.0207105220841155,
+    "price1": 0.9797097006095046,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 204,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.271398533460412,
+    "liquidityLockedToken1": 1.2977298608653562,
+    "price0": 1.0206084612379918,
+    "price1": 0.9798076715795655,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 203,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2714621017979166,
+    "liquidityLockedToken1": 1.2976649792383945,
+    "price0": 1.0205064105969321,
+    "price1": 0.9799056523467234,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 202,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.271525673313758,
+    "liquidityLockedToken1": 1.2976001008552707,
+    "price0": 1.0204043701599161,
+    "price1": 0.9800036429119582,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 201,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2715892480080964,
+    "liquidityLockedToken1": 1.2975352257158228,
+    "price0": 1.0203023399259235,
+    "price1": 0.9801016432762494,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 200,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2716528258810895,
+    "liquidityLockedToken1": 1.2974703538198886,
+    "price0": 1.0202003198939342,
+    "price1": 0.9801996534405769,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 199,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.271716406932897,
+    "liquidityLockedToken1": 1.297405485167306,
+    "price0": 1.020098310062928,
+    "price1": 0.980297673405921,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 198,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2717799911636776,
+    "liquidityLockedToken1": 1.297340619757913,
+    "price0": 1.0199963104318848,
+    "price1": 0.9803957031732616,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 197,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2718435785735904,
+    "liquidityLockedToken1": 1.297275757591547,
+    "price0": 1.0198943209997846,
+    "price1": 0.9804937427435789,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 196,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2719071691627941,
+    "liquidityLockedToken1": 1.2972108986680462,
+    "price0": 1.019792341765608,
+    "price1": 0.9805917921178533,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 195,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2719707629314478,
+    "liquidityLockedToken1": 1.2971460429872483,
+    "price0": 1.0196903727283353,
+    "price1": 0.9806898512970651,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 194,
+    "liquidityActive": 2.5691861271046043e+22,
+    "liquidityLockedToken0": 1.2720343598797104,
+    "liquidityLockedToken1": 1.2970811905489912,
+    "price0": 1.0195884138869467,
+    "price1": 0.9807879202821947,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5691861271046043e+22
+  },
+  {
+    "tickIdx": 193,
+    "liquidityActive": 2.7043637719538877e+22,
+    "liquidityLockedToken0": 1.3390293529641621,
+    "liquidityLockedToken1": 1.3652588141367945,
+    "price0": 1.0194864652404225,
+    "price1": 0.980885999074223,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.7043637719538877e+22
+  },
+  {
+    "tickIdx": 192,
+    "liquidityActive": 2.7043637719538877e+22,
+    "liquidityLockedToken0": 1.3390963027581075,
+    "liquidityLockedToken1": 1.3651905563153817,
+    "price0": 1.0193845267877437,
+    "price1": 0.9809840876741305,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.7043637719538877e+22
+  },
+  {
+    "tickIdx": 191,
+    "liquidityActive": 2.7043637719538877e+22,
+    "liquidityLockedToken0": 1.3391632558994586,
+    "liquidityLockedToken1": 1.3651223019066039,
+    "price0": 1.019282598527891,
+    "price1": 0.9810821860828979,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.7043637719538877e+22
+  },
+  {
+    "tickIdx": 190,
+    "liquidityActive": 2.7043637719538877e+22,
+    "liquidityLockedToken0": 1.3392302123883832,
+    "liquidityLockedToken1": 1.3650540509102906,
+    "price0": 1.019180680459845,
+    "price1": 0.9811802943015061,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.7043637719538877e+22
+  },
+  {
+    "tickIdx": 189,
+    "liquidityActive": 2.7043637719538877e+22,
+    "liquidityLockedToken0": 1.3392971722250484,
+    "liquidityLockedToken1": 1.3649858033262712,
+    "price0": 1.0190787725825867,
+    "price1": 0.9812784123309363,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.7043637719538877e+22
+  },
+  {
+    "tickIdx": 188,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.3694018180056664,
+    "liquidityLockedToken1": 1.3955283238655773,
+    "price0": 1.0189768748950971,
+    "price1": 0.9813765401721694,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 187,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.3694702863849,
+    "liquidityLockedToken1": 1.3954585526821792,
+    "price0": 1.0188749873963576,
+    "price1": 0.9814746778261866,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 186,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.369538758187467,
+    "liquidityLockedToken1": 1.3953887849870787,
+    "price0": 1.018773110085349,
+    "price1": 0.9815728252939692,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 185,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.3696072334135385,
+    "liquidityLockedToken1": 1.3953190207801014,
+    "price0": 1.018671242961053,
+    "price1": 0.9816709825764987,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 184,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.3696757120632859,
+    "liquidityLockedToken1": 1.3952492600610726,
+    "price0": 1.0185693860224507,
+    "price1": 0.9817691496747563,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 183,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.36974419413688,
+    "liquidityLockedToken1": 1.3951795028298184,
+    "price0": 1.0184675392685238,
+    "price1": 0.9818673265897238,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 182,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.369812679634492,
+    "liquidityLockedToken1": 1.395109749086164,
+    "price0": 1.018365702698254,
+    "price1": 0.9819655133223827,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 181,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.3698811685562937,
+    "liquidityLockedToken1": 1.3950399988299353,
+    "price0": 1.0182638763106229,
+    "price1": 0.9820637098737149,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 180,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.3699496609024555,
+    "liquidityLockedToken1": 1.394970252060958,
+    "price0": 1.0181620601046124,
+    "price1": 0.9821619162447023,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 179,
+    "liquidityActive": 4.1768492795458e+23,
+    "liquidityLockedToken0": 20.695588617269767,
+    "liquidityLockedToken1": 21.071463141636954,
+    "price0": 1.0180602540792045,
+    "price1": 0.9822601324363268,
+    "isCurrent": false,
+    "liquidityActiveChart": 4.1768492795458e+23
+  },
+  {
+    "tickIdx": 178,
+    "liquidityActive": 5.990038303647133e+23,
+    "liquidityLockedToken0": 29.68112049303486,
+    "liquidityLockedToken1": 30.217169070494556,
+    "price0": 1.0179584582333812,
+    "price1": 0.9823583584495704,
+    "isCurrent": false,
+    "liquidityActiveChart": 5.990038303647133e+23
+  },
+  {
+    "tickIdx": 177,
+    "liquidityActive": 5.990038303647133e+23,
+    "liquidityLockedToken0": 29.682604511959966,
+    "liquidityLockedToken1": 30.215658325345974,
+    "price0": 1.0178566725661247,
+    "price1": 0.9824565942854154,
+    "isCurrent": false,
+    "liquidityActiveChart": 5.990038303647133e+23
+  },
+  {
+    "tickIdx": 176,
+    "liquidityActive": 5.990038303647133e+23,
+    "liquidityLockedToken0": 29.684088605084163,
+    "liquidityLockedToken1": 30.214147655728983,
+    "price0": 1.017754897076417,
+    "price1": 0.9825548399448439,
+    "isCurrent": false,
+    "liquidityActiveChart": 5.990038303647133e+23
+  },
+  {
+    "tickIdx": 175,
+    "liquidityActive": 5.990038303647133e+23,
+    "liquidityLockedToken0": 29.68557277241116,
+    "liquidityLockedToken1": 30.212637061639807,
+    "price0": 1.0176531317632407,
+    "price1": 0.9826530954288384,
+    "isCurrent": false,
+    "liquidityActiveChart": 5.990038303647133e+23
+  },
+  {
+    "tickIdx": 174,
+    "liquidityActive": 5.990038303647133e+23,
+    "liquidityLockedToken0": 29.68705701394467,
+    "liquidityLockedToken1": 30.211126543074673,
+    "price0": 1.0175513766255782,
+    "price1": 0.9827513607383813,
+    "isCurrent": false,
+    "liquidityActiveChart": 5.990038303647133e+23
+  },
+  {
+    "tickIdx": 173,
+    "liquidityActive": 1.1931255883699704e+24,
+    "liquidityLockedToken0": 59.13511157393318,
+    "liquidityLockedToken1": 60.17301418896286,
+    "price0": 1.017449631662412,
+    "price1": 0.9828496358744552,
+    "isCurrent": true,
+    "liquidityActiveChart": 1.1931255883699704e+24
+  },
+  {
+    "tickIdx": 172,
+    "liquidityActive": 5.990038303647133e+23,
+    "liquidityLockedToken0": 29.690025719646066,
+    "liquidityLockedToken1": 30.208105732501423,
+    "price0": 1.0173478968727245,
+    "price1": 0.9829479208380426,
+    "isCurrent": false,
+    "liquidityActiveChart": 5.990038303647133e+23
+  },
+  {
+    "tickIdx": 171,
+    "liquidityActive": 4.1768492795458e+23,
+    "liquidityLockedToken0": 20.703868094534776,
+    "liquidityLockedToken1": 21.063036663105258,
+    "price0": 1.017246172255499,
+    "price1": 0.9830462156301264,
+    "isCurrent": false,
+    "liquidityActiveChart": 4.1768492795458e+23
+  },
+  {
+    "tickIdx": 170,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.370634772741573,
+    "liquidityLockedToken1": 1.394272976131651,
+    "price0": 1.0171444578097182,
+    "price1": 0.9831445202516894,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 169,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.3707033027670024,
+    "liquidityLockedToken1": 1.3942032677109324,
+    "price0": 1.0170427535343647,
+    "price1": 0.9832428347037145,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 168,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.3707718362188472,
+    "liquidityLockedToken1": 1.3941335627753735,
+    "price0": 1.0169410594284218,
+    "price1": 0.9833411589871849,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 167,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.370840373097279,
+    "liquidityLockedToken1": 1.3940638613248,
+    "price0": 1.0168393754908727,
+    "price1": 0.9834394931030837,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 166,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.370908913402469,
+    "liquidityLockedToken1": 1.3939941633590376,
+    "price0": 1.0167377017207007,
+    "price1": 0.983537837052394,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 165,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.3709774571345887,
+    "liquidityLockedToken1": 1.3939244688779122,
+    "price0": 1.0166360381168889,
+    "price1": 0.9836361908360992,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 164,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.3710460042938095,
+    "liquidityLockedToken1": 1.3938547778812496,
+    "price0": 1.0165343846784212,
+    "price1": 0.9837345544551828,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 163,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.3711145548803023,
+    "liquidityLockedToken1": 1.3937850903688753,
+    "price0": 1.0164327414042806,
+    "price1": 0.9838329279106284,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 162,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.3711831088942388,
+    "liquidityLockedToken1": 1.3937154063406154,
+    "price0": 1.0163311082934514,
+    "price1": 0.9839313112034194,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 161,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.3712516663357903,
+    "liquidityLockedToken1": 1.3936457257962958,
+    "price0": 1.0162294853449167,
+    "price1": 0.9840297043345397,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 160,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.3713202272051281,
+    "liquidityLockedToken1": 1.3935760487357418,
+    "price0": 1.016127872557661,
+    "price1": 0.9841281073049731,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 159,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.3713887915024237,
+    "liquidityLockedToken1": 1.3935063751587797,
+    "price0": 1.016026269930668,
+    "price1": 0.9842265201157037,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 158,
+    "liquidityActive": 2.765014059996242e+22,
+    "liquidityLockedToken0": 1.3714573592278487,
+    "liquidityLockedToken1": 1.3934367050652354,
+    "price0": 1.0159246774629218,
+    "price1": 0.9843249427677152,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.765014059996242e+22
+  },
+  {
+    "tickIdx": 157,
+    "liquidityActive": 2.5830297542711884e+23,
+    "liquidityLockedToken0": 12.812565180717003,
+    "liquidityLockedToken1": 13.016601148692583,
+    "price0": 1.0158230951534064,
+    "price1": 0.984423375261992,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5830297542711884e+23
+  },
+  {
+    "tickIdx": 156,
+    "liquidityActive": 2.5830297542711884e+23,
+    "liquidityLockedToken0": 12.813205792961131,
+    "liquidityLockedToken1": 13.015950367443335,
+    "price0": 1.0157215230011063,
+    "price1": 0.9845218175995182,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5830297542711884e+23
+  },
+  {
+    "tickIdx": 155,
+    "liquidityActive": 2.5830297542711884e+23,
+    "liquidityLockedToken0": 12.813846437235075,
+    "liquidityLockedToken1": 13.01529961873071,
+    "price0": 1.0156199610050058,
+    "price1": 0.9846202697812781,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.5830297542711884e+23
+  },
+  {
+    "tickIdx": 154,
+    "liquidityActive": 2.326190488620384e+23,
+    "liquidityLockedToken0": 11.540299909737948,
+    "liquidityLockedToken1": 11.720558944314126,
+    "price0": 1.0155184091640894,
+    "price1": 0.9847187318082563,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.326190488620384e+23
+  },
+  {
+    "tickIdx": 153,
+    "liquidityActive": 2.326190488620384e+23,
+    "liquidityLockedToken0": 11.54087691030878,
+    "liquidityLockedToken1": 11.719972960315344,
+    "price0": 1.0154168674773416,
+    "price1": 0.9848172036814371,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.326190488620384e+23
+  },
+  {
+    "tickIdx": 152,
+    "liquidityActive": 2.326190488620384e+23,
+    "liquidityLockedToken0": 11.541453939728921,
+    "liquidityLockedToken1": 11.719387005613564,
+    "price0": 1.0153153359437472,
+    "price1": 0.9849156854018053,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.326190488620384e+23
+  },
+  {
+    "tickIdx": 151,
+    "liquidityActive": 2.326190488620384e+23,
+    "liquidityLockedToken0": 11.542030997999811,
+    "liquidityLockedToken1": 11.718801080207323,
+    "price0": 1.015213814562291,
+    "price1": 0.9850141769703454,
+    "isCurrent": false,
+    "liquidityActiveChart": 2.326190488620384e+23
+  },
+  {
+    "tickIdx": 150,
+    "liquidityActive": 1.9662140348820045e+21,
+    "liquidityLockedToken0": 0.0975639704793532,
+    "liquidityLockedToken1": 0.09904829063418691,
+    "price0": 1.0151123033319578,
+    "price1": 0.9851126783880425,
+    "isCurrent": false,
+    "liquidityActiveChart": 1.9662140348820045e+21
+  },
+  {
+    "tickIdx": 149,
+    "liquidityActive": 1.9662140348820045e+21,
+    "liquidityLockedToken0": 0.0975688485559283,
+    "liquidityLockedToken1": 0.09904333859105534,
+    "price0": 1.0150108022517326,
+    "price1": 0.9852111896558813,
+    "isCurrent": false,
+    "liquidityActiveChart": 1.9662140348820045e+21
+  },
+  {
+    "tickIdx": 148,
+    "liquidityActive": 1.9662140348820045e+21,
+    "liquidityLockedToken0": 0.09757372687640112,
+    "liquidityLockedToken1": 0.09903838679550735,
+    "price0": 1.0149093113206007,
+    "price1": 0.9853097107748469,
+    "isCurrent": false,
+    "liquidityActiveChart": 1.9662140348820045e+21
+  },
+  {
+    "tickIdx": 147,
+    "liquidityActive": 1.9662140348820045e+21,
+    "liquidityLockedToken0": 0.09757860544078388,
+    "liquidityLockedToken1": 0.09903343524753058,
+    "price0": 1.0148078305375468,
+    "price1": 0.9854082417459243,
+    "isCurrent": false,
+    "liquidityActiveChart": 1.9662140348820045e+21
+  },
+  {
+    "tickIdx": 146,
+    "liquidityActive": 1.9662140348820045e+21,
+    "liquidityLockedToken0": 0.09758348424908876,
+    "liquidityLockedToken1": 0.09902848394711264,
+    "price0": 1.0147063599015567,
+    "price1": 0.9855067825700989,
+    "isCurrent": false,
+    "liquidityActiveChart": 1.9662140348820045e+21
+  },
+  {
+    "tickIdx": 145,
+    "liquidityActive": 1.9662140348820045e+21,
+    "liquidityLockedToken0": 0.09758836330132797,
+    "liquidityLockedToken1": 0.09902353289424116,
+    "price0": 1.0146048994116155,
+    "price1": 0.985605333248356,
+    "isCurrent": false,
+    "liquidityActiveChart": 1.9662140348820045e+21
+  },
+  {
+    "tickIdx": 144,
+    "liquidityActive": 1.9662140348820045e+21,
+    "liquidityLockedToken0": 0.09759324259751367,
+    "liquidityLockedToken1": 0.09901858208890375,
+    "price0": 1.0145034490667089,
+    "price1": 0.9857038937816808,
+    "isCurrent": false,
+    "liquidityActiveChart": 1.9662140348820045e+21
+  },
+  {
+    "tickIdx": 143,
+    "liquidityActive": 1.9662140348820045e+21,
+    "liquidityLockedToken0": 0.0975981221376581,
+    "liquidityLockedToken1": 0.09901363153108805,
+    "price0": 1.0144020088658223,
+    "price1": 0.985802464171059,
+    "isCurrent": false,
+    "liquidityActiveChart": 1.9662140348820045e+21
+  },
+  {
+    "tickIdx": 142,
+    "liquidityActive": 1.3597111544584612e+21,
+    "liquidityLockedToken0": 0.06749615660719775,
+    "liquidityLockedToken1": 0.06846823685306354,
+    "price0": 1.0143005788079416,
+    "price1": 0.9859010444174761,
+    "isCurrent": false,
+    "liquidityActiveChart": 1.3597111544584612e+21
+  },
+  {
+    "tickIdx": 141,
+    "liquidityActive": 1.3597111544584612e+21,
+    "liquidityLockedToken0": 0.06749953133066212,
+    "liquidityLockedToken1": 0.06846481369795537,
+    "price0": 1.0141991588920523,
+    "price1": 0.9859996345219179,
+    "isCurrent": false,
+    "liquidityActiveChart": 1.3597111544584612e+21
+  },
+  {
+    "tickIdx": 140,
+    "liquidityActive": 1.3597111544584612e+21,
+    "liquidityLockedToken0": 0.06750290622285847,
+    "liquidityLockedToken1": 0.06846139071399214,
+    "price0": 1.0140977491171406,
+    "price1": 0.98609823448537,
+    "isCurrent": false,
+    "liquidityActiveChart": 1.3597111544584612e+21
+  },
+  {
+    "tickIdx": 139,
+    "liquidityActive": 1.3730297096010316e+21,
+    "liquidityLockedToken0": 0.06816751446320983,
+    "liquidityLockedToken1": 0.0691285229800512,
+    "price0": 1.0139963494821924,
+    "price1": 0.9861968443088186,
+    "isCurrent": false,
+    "liquidityActiveChart": 1.3730297096010316e+21
+  },
+  {
+    "tickIdx": 138,
+    "liquidityActive": 1.3730297096010316e+21,
+    "liquidityLockedToken0": 0.06817092275372785,
+    "liquidityLockedToken1": 0.06912506681311256,
+    "price0": 1.0138949599861937,
+    "price1": 0.9862954639932494,
+    "isCurrent": false,
+    "liquidityActiveChart": 1.3730297096010316e+21
+  },
+  {
+    "tickIdx": 137,
+    "liquidityActive": 1.3730297096010316e+21,
+    "liquidityLockedToken0": 0.06817433121465614,
+    "liquidityLockedToken1": 0.06912161081896931,
+    "price0": 1.0137935806281309,
+    "price1": 0.9863940935396488,
+    "isCurrent": false,
+    "liquidityActiveChart": 1.3730297096010316e+21
+  },
+  {
+    "tickIdx": 136,
+    "liquidityActive": 1.3730297096010316e+21,
+    "liquidityLockedToken0": 0.06817773984600323,
+    "liquidityLockedToken1": 0.0691181549976128,
+    "price0": 1.0136922114069902,
+    "price1": 0.9864927329490027,
+    "isCurrent": false,
+    "liquidityActiveChart": 1.3730297096010316e+21
+  },
+  {
+    "tickIdx": 135,
+    "liquidityActive": 1.3730297096010316e+21,
+    "liquidityLockedToken0": 0.0681811486477776,
+    "liquidityLockedToken1": 0.0691146993490344,
+    "price0": 1.013590852321758,
+    "price1": 0.9865913822222976,
+    "isCurrent": false,
+    "liquidityActiveChart": 1.3730297096010316e+21
+  },
+  {
+    "tickIdx": 134,
+    "liquidityActive": 1.3730297096010316e+21,
+    "liquidityLockedToken0": 0.06818455761998782,
+    "liquidityLockedToken1": 0.06911124387322548,
+    "price0": 1.0134895033714209,
+    "price1": 0.9866900413605199,
+    "isCurrent": false,
+    "liquidityActiveChart": 1.3730297096010316e+21
+  },
+  {
+    "tickIdx": 133,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.0010554882038674896,
+    "liquidityLockedToken1": 0.001069726215552055,
+    "price0": 1.0133881645549654,
+    "price1": 0.9867887103646559,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 132,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.001055540976958389,
+    "liquidityLockedToken1": 0.001069672733252417,
+    "price0": 1.0132868358713782,
+    "price1": 0.9868873892356924,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 131,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.001055593752687876,
+    "liquidityLockedToken1": 0.001069619253626692,
+    "price0": 1.0131855173196462,
+    "price1": 0.9869860779746159,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 130,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.0010556465310560845,
+    "liquidityLockedToken1": 0.001069565776674749,
+    "price0": 1.0130842088987564,
+    "price1": 0.9870847765824134,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 129,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.0010556993120631455,
+    "liquidityLockedToken1": 0.001069512302396453,
+    "price0": 1.0129829106076957,
+    "price1": 0.9871834850600717,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 128,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.0010557520957091902,
+    "liquidityLockedToken1": 0.00106945883079167,
+    "price0": 1.012881622445451,
+    "price1": 0.9872822034085776,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 127,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.0010558048819943517,
+    "liquidityLockedToken1": 0.001069405361860267,
+    "price0": 1.01278034441101,
+    "price1": 0.9873809316289185,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 126,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.0010558576709187612,
+    "liquidityLockedToken1": 0.00106935189560211,
+    "price0": 1.0126790765033598,
+    "price1": 0.9874796697220815,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 125,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.001055910462482551,
+    "liquidityLockedToken1": 0.001069298432017065,
+    "price0": 1.0125778187214876,
+    "price1": 0.9875784176890536,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 124,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.0010559632566858527,
+    "liquidityLockedToken1": 0.001069244971104999,
+    "price0": 1.012476571064381,
+    "price1": 0.9876771755308225,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 123,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.0010560160535287998,
+    "liquidityLockedToken1": 0.001069191512865779,
+    "price0": 1.012375333531028,
+    "price1": 0.9877759432483756,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 122,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.001056068853011521,
+    "liquidityLockedToken1": 0.001069138057299269,
+    "price0": 1.012274106120416,
+    "price1": 0.9878747208427004,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 121,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.0010561216551341521,
+    "liquidityLockedToken1": 0.001069084604405338,
+    "price0": 1.012172888831533,
+    "price1": 0.9879735083147847,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 120,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.0010561744598968229,
+    "liquidityLockedToken1": 0.001069031154183851,
+    "price0": 1.0120716816633664,
+    "price1": 0.9880723056656162,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 119,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.001056227267299666,
+    "liquidityLockedToken1": 0.001068977706634675,
+    "price0": 1.011970484614905,
+    "price1": 0.9881711128961828,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 118,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.0010562800773428122,
+    "liquidityLockedToken1": 0.001068924261757675,
+    "price0": 1.0118692976851364,
+    "price1": 0.9882699300074723,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 117,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.0010563328900263954,
+    "liquidityLockedToken1": 0.001068870819552719,
+    "price0": 1.0117681208730491,
+    "price1": 0.9883687570004731,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 116,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.0010563857053505464,
+    "liquidityLockedToken1": 0.001068817380019673,
+    "price0": 1.0116669541776313,
+    "price1": 0.9884675938761731,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 115,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.0010564385233153978,
+    "liquidityLockedToken1": 0.001068763943158403,
+    "price0": 1.0115657975978716,
+    "price1": 0.9885664406355608,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 114,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.0010564913439210814,
+    "liquidityLockedToken1": 0.001068710508968776,
+    "price0": 1.0114646511327583,
+    "price1": 0.9886652972796244,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 113,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.0010565441671677295,
+    "liquidityLockedToken1": 0.001068657077450658,
+    "price0": 1.0113635147812803,
+    "price1": 0.9887641638093523,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 112,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.001056596993055474,
+    "liquidityLockedToken1": 0.001068603648603916,
+    "price0": 1.011262388542426,
+    "price1": 0.9888630402257332,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 111,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.001056649821584447,
+    "liquidityLockedToken1": 0.001068550222428416,
+    "price0": 1.0111612724151844,
+    "price1": 0.9889619265297558,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 110,
+    "liquidityActive": 21253261108196962000,
+    "liquidityLockedToken0": 0.00105670265275478,
+    "liquidityLockedToken1": 0.001068496798924024,
+    "price0": 1.0110601663985446,
+    "price1": 0.9890608227224088,
+    "isCurrent": false,
+    "liquidityActiveChart": 21253261108196962000
+  },
+  {
+    "tickIdx": 109,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039452976278706275,
+    "liquidityLockedToken1": 0.000398893327612666,
+    "price0": 1.0109590704914955,
+    "price1": 0.9891597288046811,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 108,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039454948878206393,
+    "liquidityLockedToken1": 0.00039887338444201,
+    "price0": 1.0108579846930261,
+    "price1": 0.9892586447775615,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 107,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.0003945692157633413,
+    "liquidityLockedToken1": 0.000398853442268439,
+    "price0": 1.010756909002126,
+    "price1": 0.9893575706420392,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 106,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039458894373094227,
+    "liquidityLockedToken1": 0.000398833501091901,
+    "price0": 1.0106558434177841,
+    "price1": 0.9894565063991034,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 105,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.0003946086726849179,
+    "liquidityLockedToken1": 0.000398813560912348,
+    "price0": 1.0105547879389902,
+    "price1": 0.9895554520497434,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 104,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039462840262531536,
+    "liquidityLockedToken1": 0.000398793621729728,
+    "price0": 1.0104537425647337,
+    "price1": 0.9896544075949484,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 103,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.0003946481335521858,
+    "liquidityLockedToken1": 0.000398773683543993,
+    "price0": 1.0103527072940044,
+    "price1": 0.9897533730357079,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 102,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.0003946678654655784,
+    "liquidityLockedToken1": 0.000398753746355093,
+    "price0": 1.0102516821257919,
+    "price1": 0.9898523483730114,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 101,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039468759836554126,
+    "liquidityLockedToken1": 0.000398733810162977,
+    "price0": 1.0101506670590858,
+    "price1": 0.9899513336078487,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 100,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039470733225212474,
+    "liquidityLockedToken1": 0.000398713874967596,
+    "price0": 1.0100496620928765,
+    "price1": 0.9900503287412095,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 99,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039472706712537773,
+    "liquidityLockedToken1": 0.0003986939407689,
+    "price0": 1.009948667226154,
+    "price1": 0.9901493337740837,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 98,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.0003947468029853496,
+    "liquidityLockedToken1": 0.000398674007566839,
+    "price0": 1.0098476824579081,
+    "price1": 0.990248348707461,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 97,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.0003947665398320904,
+    "liquidityLockedToken1": 0.000398654075361364,
+    "price0": 1.0097467077871294,
+    "price1": 0.9903473735423317,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 96,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.0003947862776656484,
+    "liquidityLockedToken1": 0.000398634144152424,
+    "price0": 1.009645743212808,
+    "price1": 0.990446408279686,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 95,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.0003948060164860736,
+    "liquidityLockedToken1": 0.00039861421393997,
+    "price0": 1.0095447887339348,
+    "price1": 0.990545452920514,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 94,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039482575629341533,
+    "liquidityLockedToken1": 0.000398594284723952,
+    "price0": 1.0094438443494997,
+    "price1": 0.990644507465806,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 93,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039484549708772266,
+    "liquidityLockedToken1": 0.00039857435650432,
+    "price0": 1.009342910058494,
+    "price1": 0.9907435719165526,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 92,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039486523886904476,
+    "liquidityLockedToken1": 0.000398554429281024,
+    "price0": 1.009241985859908,
+    "price1": 0.9908426462737443,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 91,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039488498163743087,
+    "liquidityLockedToken1": 0.000398534503054014,
+    "price0": 1.0091410717527327,
+    "price1": 0.9909417305383716,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 90,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.000394904725392931,
+    "liquidityLockedToken1": 0.000398514577823241,
+    "price0": 1.009040167735959,
+    "price1": 0.9910408247114254,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 89,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.0003949244701355944,
+    "liquidityLockedToken1": 0.000398494653588655,
+    "price0": 1.0089392738085783,
+    "price1": 0.9911399287938966,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 88,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.0003949442158654703,
+    "liquidityLockedToken1": 0.000398474730350206,
+    "price0": 1.0088383899695812,
+    "price1": 0.991239042786776,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 87,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039496396258260875,
+    "liquidityLockedToken1": 0.000398454808107845,
+    "price0": 1.0087375162179595,
+    "price1": 0.9913381666910547,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 86,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039498371028705704,
+    "liquidityLockedToken1": 0.00039843488686152,
+    "price0": 1.0086366525527042,
+    "price1": 0.9914373005077237,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 85,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039500345897886614,
+    "liquidityLockedToken1": 0.000398414966611183,
+    "price0": 1.008535798972807,
+    "price1": 0.9915364442377745,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 84,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.0003950232086580854,
+    "liquidityLockedToken1": 0.000398395047356784,
+    "price0": 1.0084349554772591,
+    "price1": 0.9916355978821983,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 83,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.0003950429593247649,
+    "liquidityLockedToken1": 0.000398375129098274,
+    "price0": 1.0083341220650528,
+    "price1": 0.9917347614419866,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 82,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039506271097895177,
+    "liquidityLockedToken1": 0.000398355211835601,
+    "price0": 1.0082332987351792,
+    "price1": 0.9918339349181308,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 81,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.0003950824636206972,
+    "liquidityLockedToken1": 0.000398335295568717,
+    "price0": 1.0081324854866305,
+    "price1": 0.9919331183116226,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 80,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.0003951022172500494,
+    "liquidityLockedToken1": 0.000398315380297571,
+    "price0": 1.0080316823183988,
+    "price1": 0.9920323116234537,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 79,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.0003951219718670585,
+    "liquidityLockedToken1": 0.000398295466022114,
+    "price0": 1.0079308892294758,
+    "price1": 0.992131514854616,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 78,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039514172747177466,
+    "liquidityLockedToken1": 0.000398275552742297,
+    "price0": 1.007830106218854,
+    "price1": 0.9922307280061016,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 77,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039516148406424604,
+    "liquidityLockedToken1": 0.000398255640458069,
+    "price0": 1.0077293332855253,
+    "price1": 0.9923299510789021,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 76,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039518124164452176,
+    "liquidityLockedToken1": 0.00039823572916938,
+    "price0": 1.0076285704284824,
+    "price1": 0.99242918407401,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 75,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.0003952010002126521,
+    "liquidityLockedToken1": 0.000398215818876181,
+    "price0": 1.0075278176467177,
+    "price1": 0.9925284269924174,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 74,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.00039522075976868606,
+    "liquidityLockedToken1": 0.000398195909578422,
+    "price0": 1.0074270749392238,
+    "price1": 0.9926276798351167,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  },
+  {
+    "tickIdx": 73,
+    "liquidityActive": 7934705965626388000,
+    "liquidityLockedToken0": 0.000395240520312673,
+    "liquidityLockedToken1": 0.000398176001276053,
+    "price0": 1.0073263423049934,
+    "price1": 0.9927269426031001,
+    "isCurrent": false,
+    "liquidityActiveChart": 7934705965626388000
+  }
+]

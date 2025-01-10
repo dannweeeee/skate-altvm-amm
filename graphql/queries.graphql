@@ -1,0 +1,59 @@
+# Ethereum: Get all ticks of a pool
+query GetAllTicksEthereum($poolAddress: String!, $skip: Int!) {
+  Ethereum_ticks(
+    where: { pool: $poolAddress, liquidityNet_not: 0 }
+    skip: $skip
+    first: 1000
+    orderBy: index
+    orderDirection: asc
+  ) {
+    index
+    liquidityGross
+    liquidityNet
+  }
+}
+
+# Base: Get all ticks of a pool
+query GetAllTicksBase($poolAddress: String!, $skip: Int!) {
+  Base_ticks(
+    where: { pool: $poolAddress, liquidityNet_not: 0 }
+    skip: $skip
+    first: 1000
+    orderBy: index
+    orderDirection: asc
+  ) {
+    index
+    liquidityGross
+    liquidityNet
+  }
+}
+
+# Optimism: Get all ticks of a pool
+query GetAllTicksOptimism($poolAddress: String!, $skip: Int!) {
+  Optimism_ticks(
+    where: { pool: $poolAddress, liquidityNet_not: 0 }
+    skip: $skip
+    first: 1000
+    orderBy: index
+    orderDirection: asc
+  ) {
+    index
+    liquidityGross
+    liquidityNet
+  }
+}
+
+# Arbitrum: Get all ticks of a pool
+query GetAllTicksArbitrum($poolAddress: String!, $skip: Int!) {
+  Arbitrum_ticks(
+    where: { pool: $poolAddress, liquidityNet_not: 0 }
+    skip: $skip
+    first: 1000
+    orderBy: index
+    orderDirection: asc
+  ) {
+    index
+    liquidityGross
+    liquidityNet
+  }
+}
