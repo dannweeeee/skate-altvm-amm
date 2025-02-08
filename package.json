@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "Skates AMM Aggregator",
+  "description": "Skate AMM Aggregator",
   "dependencies": {
     "@graphql-mesh/cli": "^0.94.1",
     "@graphql-mesh/graphql": "^0.101.0",
